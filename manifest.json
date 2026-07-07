@@ -2859,6 +2859,1012 @@
           }
         }
       ]
+    },
+    {
+      "id": "space",
+      "title": {
+        "en": "Space & Flying",
+        "sv": "Rymden",
+        "ko": "우주"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-space-helicopter",
+          "name": {
+            "en": "Helicopter",
+            "sv": "Helicopter",
+            "ko": "Helicopter"
+          },
+          "image": {
+            "file": "helicopter.heic",
+            "sha256": "3ceafde4d53a4d347c5a8c5760cc5e93418592f987e8b1df9705d5ca5dbb7459"
+          },
+          "mask": {
+            "file": "helicopter-wall.png",
+            "sha256": "b48a9b8babf5e36ba9b75f7a64ab7e512d6db043db99f449687f146d682933b7"
+          },
+          "regions": [
+            {
+              "id": "space-helicopter-r0",
+              "seedPoint": {
+                "x": 149,
+                "y": 69
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "space-helicopter-r1",
+              "seedPoint": {
+                "x": 167,
+                "y": 149
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "space-helicopter-r2",
+              "seedPoint": {
+                "x": 97,
+                "y": 168
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "space-helicopter-r3",
+              "seedPoint": {
+                "x": 212,
+                "y": 97
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "space-helicopter-r4",
+              "seedPoint": {
+                "x": 88,
+                "y": 206
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "space-helicopter-r5",
+              "seedPoint": {
+                "x": 143,
+                "y": 167
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "space-helicopter-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-space-hotairballoon",
+          "name": {
+            "en": "Hotairballoon",
+            "sv": "Hotairballoon",
+            "ko": "Hotairballoon"
+          },
+          "image": {
+            "file": "hotairballoon.heic",
+            "sha256": "5403d09f3fbd105ff26589730214e738c47a10766679123430f72ececaebc430"
+          },
+          "mask": {
+            "file": "hotairballoon-wall.png",
+            "sha256": "ecc5c7c383394faad041aceaad0ad5f6d245d183e89ff92a2472d9c40e25dfc7"
+          },
+          "regions": [
+            {
+              "id": "space-hotairballoon-r0",
+              "seedPoint": {
+                "x": 149,
+                "y": 62
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "space-hotairballoon-r1",
+              "seedPoint": {
+                "x": 149,
+                "y": 128
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "space-hotairballoon-r2",
+              "seedPoint": {
+                "x": 115,
+                "y": 61
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "space-hotairballoon-r3",
+              "seedPoint": {
+                "x": 184,
+                "y": 61
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "space-hotairballoon-r4",
+              "seedPoint": {
+                "x": 209,
+                "y": 66
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "space-hotairballoon-r5",
+              "seedPoint": {
+                "x": 89,
+                "y": 66
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "space-hotairballoon-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-space-planetrings",
+          "name": {
+            "en": "Planetrings",
+            "sv": "Planetrings",
+            "ko": "Planetrings"
+          },
+          "image": {
+            "file": "planetrings.heic",
+            "sha256": "8cb722eba39b44cc9d1a5a0717c1ed530e60cb6b054e1ac7d40dd4bd6ad68032"
+          },
+          "mask": {
+            "file": "planetrings-wall.png",
+            "sha256": "713559892da65c8c3a4deab332bdcf3f344306bb2825feb0ab6aba17bb984766"
+          },
+          "regions": [
+            {
+              "id": "space-planetrings-r0",
+              "seedPoint": {
+                "x": 162,
+                "y": 136
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "space-planetrings-r1",
+              "seedPoint": {
+                "x": 145,
+                "y": 190
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "space-planetrings-r2",
+              "seedPoint": {
+                "x": 131,
+                "y": 219
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "space-planetrings-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-space-rocket",
+          "name": {
+            "en": "Rocket",
+            "sv": "Rocket",
+            "ko": "Rocket"
+          },
+          "image": {
+            "file": "rocket.heic",
+            "sha256": "b4b68ffe32371aea0211ce241b5b34307c3aef4d21d93335c30c04df79332601"
+          },
+          "mask": {
+            "file": "rocket-wall.png",
+            "sha256": "17ba21ac53e233727f65fcb8bb8a2e1b74bb4e27918334dc50f2f5aab913c393"
+          },
+          "regions": [
+            {
+              "id": "space-rocket-r0",
+              "seedPoint": {
+                "x": 150,
+                "y": 132
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "space-rocket-r1",
+              "seedPoint": {
+                "x": 248,
+                "y": 270
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "space-rocket-r2",
+              "seedPoint": {
+                "x": 148,
+                "y": 250
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "space-rocket-r3",
+              "seedPoint": {
+                "x": 51,
+                "y": 279
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "space-rocket-r4",
+              "seedPoint": {
+                "x": 64,
+                "y": 258
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "space-rocket-r5",
+              "seedPoint": {
+                "x": 151,
+                "y": 48
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "space-rocket-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-space-satellite",
+          "name": {
+            "en": "Satellite",
+            "sv": "Satellite",
+            "ko": "Satellite"
+          },
+          "image": {
+            "file": "satellite.heic",
+            "sha256": "804aca9ceec1f2790b6cdc66706837d7dbe95e4979f11410b84ce2cb6689b062"
+          },
+          "mask": {
+            "file": "satellite-wall.png",
+            "sha256": "22ba37d16afe62a61431cbe4f7ffff83147d1d916567442ead44a41a464ae19a"
+          },
+          "regions": [
+            {
+              "id": "space-satellite-r0",
+              "seedPoint": {
+                "x": 237,
+                "y": 214
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "space-satellite-r1",
+              "seedPoint": {
+                "x": 214,
+                "y": 202
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "space-satellite-r2",
+              "seedPoint": {
+                "x": 191,
+                "y": 191
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "space-satellite-r3",
+              "seedPoint": {
+                "x": 74,
+                "y": 137
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "space-satellite-r4",
+              "seedPoint": {
+                "x": 117,
+                "y": 184
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "space-satellite-r5",
+              "seedPoint": {
+                "x": 129,
+                "y": 154
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "space-satellite-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-space-ufo",
+          "name": {
+            "en": "Ufo",
+            "sv": "Ufo",
+            "ko": "Ufo"
+          },
+          "image": {
+            "file": "ufo.heic",
+            "sha256": "942c3dc5f797235547328aa7807754651f207dc5ce7c32ea35d90d86957d5ba1"
+          },
+          "mask": {
+            "file": "ufo-wall.png",
+            "sha256": "b005b2e7f758eae521772fd0f8c32fe2685d2d71b006d6ad90c12baec7b623c8"
+          },
+          "regions": [
+            {
+              "id": "space-ufo-r0",
+              "seedPoint": {
+                "x": 145,
+                "y": 176
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "space-ufo-r1",
+              "seedPoint": {
+                "x": 159,
+                "y": 128
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "space-ufo-r2",
+              "seedPoint": {
+                "x": 138,
+                "y": 208
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "space-ufo-r3",
+              "seedPoint": {
+                "x": 132,
+                "y": 222
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "space-ufo-r0",
+            "colorId": "red"
+          }
+        }
+      ]
+    },
+    {
+      "id": "boats",
+      "title": {
+        "en": "Boats & Water",
+        "sv": "Båtar",
+        "ko": "배"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-boats-canoe",
+          "name": {
+            "en": "Canoe",
+            "sv": "Canoe",
+            "ko": "Canoe"
+          },
+          "image": {
+            "file": "canoe.heic",
+            "sha256": "07984bb70852a45db6723f983631dd1a14a5b164f0ed46d696ae995b4ab0ce25"
+          },
+          "mask": {
+            "file": "canoe-wall.png",
+            "sha256": "779947e002967577d09be24d1d0e30c99f453b305a8738fe1b7bf875a047c791"
+          },
+          "regions": [
+            {
+              "id": "boats-canoe-r0",
+              "seedPoint": {
+                "x": 87,
+                "y": 174
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "boats-canoe-r1",
+              "seedPoint": {
+                "x": 231,
+                "y": 136
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "boats-canoe-r2",
+              "seedPoint": {
+                "x": 166,
+                "y": 125
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "boats-canoe-r3",
+              "seedPoint": {
+                "x": 253,
+                "y": 181
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "boats-canoe-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-boats-ferry",
+          "name": {
+            "en": "Ferry",
+            "sv": "Ferry",
+            "ko": "Ferry"
+          },
+          "image": {
+            "file": "ferry.heic",
+            "sha256": "aa51f70ac71ec2add24612dcb00878c8de245a84a2841d9e7f270ed72c7d3e48"
+          },
+          "mask": {
+            "file": "ferry-wall.png",
+            "sha256": "4a60fb4d07eec99da379e56988d3d90167626f359fc033e27a41df5ac406ef76"
+          },
+          "regions": [
+            {
+              "id": "boats-ferry-r0",
+              "seedPoint": {
+                "x": 146,
+                "y": 170
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "boats-ferry-r1",
+              "seedPoint": {
+                "x": 86,
+                "y": 136
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "boats-ferry-r2",
+              "seedPoint": {
+                "x": 170,
+                "y": 139
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "boats-ferry-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-boats-lighthouse",
+          "name": {
+            "en": "Lighthouse",
+            "sv": "Lighthouse",
+            "ko": "Lighthouse"
+          },
+          "image": {
+            "file": "lighthouse.heic",
+            "sha256": "b45aa9eb65aab69d674473013d0eec4bcdfdc5db018df924f518bcf1897e0ec0"
+          },
+          "mask": {
+            "file": "lighthouse-wall.png",
+            "sha256": "2bc161eebd7448db2c3ccea551e26180f7465a4d448cb72c4f11f401558a99f1"
+          },
+          "regions": [
+            {
+              "id": "boats-lighthouse-r0",
+              "seedPoint": {
+                "x": 113,
+                "y": 153
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "boats-lighthouse-r1",
+              "seedPoint": {
+                "x": 131,
+                "y": 245
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "boats-lighthouse-r2",
+              "seedPoint": {
+                "x": 92,
+                "y": 234
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "boats-lighthouse-r3",
+              "seedPoint": {
+                "x": 179,
+                "y": 232
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "boats-lighthouse-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-boats-speedboat",
+          "name": {
+            "en": "Speedboat",
+            "sv": "Speedboat",
+            "ko": "Speedboat"
+          },
+          "image": {
+            "file": "speedboat.heic",
+            "sha256": "8f2b1e44841de55c0d0b37dc0d28aebc9db7d40aa6aee92b599c1309a320bd8b"
+          },
+          "mask": {
+            "file": "speedboat-wall.png",
+            "sha256": "155f4cb6d036305c39add244d68b8843e1f7d307fb12713d0355445b62b8efcf"
+          },
+          "regions": [
+            {
+              "id": "boats-speedboat-r0",
+              "seedPoint": {
+                "x": 159,
+                "y": 174
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "boats-speedboat-r1",
+              "seedPoint": {
+                "x": 197,
+                "y": 89
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "boats-speedboat-r2",
+              "seedPoint": {
+                "x": 130,
+                "y": 132
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "boats-speedboat-r3",
+              "seedPoint": {
+                "x": 206,
+                "y": 64
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "boats-speedboat-r4",
+              "seedPoint": {
+                "x": 218,
+                "y": 111
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "boats-speedboat-r5",
+              "seedPoint": {
+                "x": 248,
+                "y": 81
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "boats-speedboat-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-boats-submarine",
+          "name": {
+            "en": "Submarine",
+            "sv": "Submarine",
+            "ko": "Submarine"
+          },
+          "image": {
+            "file": "submarine.heic",
+            "sha256": "216e2bf9b72f5facd7e42a870cf1f625d854f76716e69d4e437f44c673950643"
+          },
+          "mask": {
+            "file": "submarine-wall.png",
+            "sha256": "2010c41299995d108e58f5c5029085eeb1ffacdbc496275e668108ac9bcdd70f"
+          },
+          "regions": [
+            {
+              "id": "boats-submarine-r0",
+              "seedPoint": {
+                "x": 139,
+                "y": 156
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "boats-submarine-r1",
+              "seedPoint": {
+                "x": 50,
+                "y": 154
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "boats-submarine-r2",
+              "seedPoint": {
+                "x": 146,
+                "y": 207
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "boats-submarine-r3",
+              "seedPoint": {
+                "x": 148,
+                "y": 100
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "boats-submarine-r4",
+              "seedPoint": {
+                "x": 231,
+                "y": 158
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "boats-submarine-r5",
+              "seedPoint": {
+                "x": 257,
+                "y": 160
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "boats-submarine-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-boats-tugboat",
+          "name": {
+            "en": "Tugboat",
+            "sv": "Tugboat",
+            "ko": "Tugboat"
+          },
+          "image": {
+            "file": "tugboat.heic",
+            "sha256": "733a325adff418fde9ab6e38bfb423741766c2585f9825405012b057eea4ed5e"
+          },
+          "mask": {
+            "file": "tugboat-wall.png",
+            "sha256": "3e9c71030f1ffbf9eda7abdcfa16495fb38c1544cb5ddbd911003b9bfb05c385"
+          },
+          "regions": [
+            {
+              "id": "boats-tugboat-r0",
+              "seedPoint": {
+                "x": 161,
+                "y": 199
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "boats-tugboat-r1",
+              "seedPoint": {
+                "x": 181,
+                "y": 254
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "boats-tugboat-r2",
+              "seedPoint": {
+                "x": 139,
+                "y": 127
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "boats-tugboat-r3",
+              "seedPoint": {
+                "x": 205,
+                "y": 132
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "boats-tugboat-r4",
+              "seedPoint": {
+                "x": 167,
+                "y": 87
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "boats-tugboat-r5",
+              "seedPoint": {
+                "x": 277,
+                "y": 162
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "boats-tugboat-r0",
+            "colorId": "red"
+          }
+        }
+      ]
     }
   ]
 }
