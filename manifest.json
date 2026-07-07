@@ -1,0 +1,2864 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "vehicles",
+      "title": {
+        "en": "Vehicles",
+        "sv": "Fordon",
+        "ko": "탈것"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-vehicles-airplane",
+          "name": {
+            "en": "Airplane",
+            "sv": "Airplane",
+            "ko": "Airplane"
+          },
+          "image": {
+            "file": "airplane.heic",
+            "sha256": "a548981da2ba094d749c14b35b159f2f1b37cac5ff52cadfaff9def010fa559a"
+          },
+          "mask": {
+            "file": "airplane-wall.png",
+            "sha256": "cb2b525ccd0667f6564f74ec9c9b67d455a6c569d603ec61b18f0bd0fd35244a"
+          },
+          "regions": [
+            {
+              "id": "vehicles-airplane-r0",
+              "seedPoint": {
+                "x": 165,
+                "y": 145
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "vehicles-airplane-r1",
+              "seedPoint": {
+                "x": 117,
+                "y": 195
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "vehicles-airplane-r2",
+              "seedPoint": {
+                "x": 162,
+                "y": 107
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "vehicles-airplane-r3",
+              "seedPoint": {
+                "x": 68,
+                "y": 99
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "vehicles-airplane-r4",
+              "seedPoint": {
+                "x": 125,
+                "y": 203
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "vehicles-airplane-r5",
+              "seedPoint": {
+                "x": 236,
+                "y": 117
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "vehicles-airplane-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-vehicles-boat",
+          "name": {
+            "en": "Boat",
+            "sv": "Boat",
+            "ko": "Boat"
+          },
+          "image": {
+            "file": "boat.heic",
+            "sha256": "6815c6feed728746c7169ff55e43995614082fde0d0b5b9d5b8afd719dd71e2a"
+          },
+          "mask": {
+            "file": "boat-wall.png",
+            "sha256": "296267c3776c28e63dd411cb806528a47a2dba3197335d3d75385b1f955bdff3"
+          },
+          "regions": [
+            {
+              "id": "vehicles-boat-r0",
+              "seedPoint": {
+                "x": 159,
+                "y": 135
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "vehicles-boat-r1",
+              "seedPoint": {
+                "x": 101,
+                "y": 158
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "vehicles-boat-r2",
+              "seedPoint": {
+                "x": 147,
+                "y": 233
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "vehicles-boat-r3",
+              "seedPoint": {
+                "x": 153,
+                "y": 261
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "vehicles-boat-r4",
+              "seedPoint": {
+                "x": 158,
+                "y": 204
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "vehicles-boat-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-vehicles-bus",
+          "name": {
+            "en": "Bus",
+            "sv": "Bus",
+            "ko": "Bus"
+          },
+          "image": {
+            "file": "bus.heic",
+            "sha256": "0fef0c783fa7094a4a93bffdc803458a1aaa29560d71ceab98eced95df6a38a6"
+          },
+          "mask": {
+            "file": "bus-wall.png",
+            "sha256": "602840b96322f9d95855d4ed0e7273bbb3fc5110a6ad56dc2d165d4c58bcba87"
+          },
+          "regions": [
+            {
+              "id": "vehicles-bus-r0",
+              "seedPoint": {
+                "x": 203,
+                "y": 175
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "vehicles-bus-r1",
+              "seedPoint": {
+                "x": 108,
+                "y": 124
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "vehicles-bus-r2",
+              "seedPoint": {
+                "x": 87,
+                "y": 182
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "vehicles-bus-r3",
+              "seedPoint": {
+                "x": 207,
+                "y": 87
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "vehicles-bus-r4",
+              "seedPoint": {
+                "x": 117,
+                "y": 91
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "vehicles-bus-r5",
+              "seedPoint": {
+                "x": 168,
+                "y": 122
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "vehicles-bus-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-vehicles-car",
+          "name": {
+            "en": "Car",
+            "sv": "Car",
+            "ko": "Car"
+          },
+          "image": {
+            "file": "car.heic",
+            "sha256": "ca1362a1ec5e79c628aa214a90c98f98a04f7516016ede45f252913c12b43089"
+          },
+          "mask": {
+            "file": "car-wall.png",
+            "sha256": "564a2c6b2e1d1c3cd1cc69c1f0331e3675b1d750e459897bb0550cfafca7c647"
+          },
+          "regions": [
+            {
+              "id": "vehicles-car-r0",
+              "seedPoint": {
+                "x": 162,
+                "y": 163
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "vehicles-car-r1",
+              "seedPoint": {
+                "x": 65,
+                "y": 171
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "vehicles-car-r2",
+              "seedPoint": {
+                "x": 162,
+                "y": 101
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "vehicles-car-r3",
+              "seedPoint": {
+                "x": 254,
+                "y": 175
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "vehicles-car-r4",
+              "seedPoint": {
+                "x": 214,
+                "y": 101
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "vehicles-car-r5",
+              "seedPoint": {
+                "x": 160,
+                "y": 214
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "vehicles-car-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-vehicles-train",
+          "name": {
+            "en": "Train",
+            "sv": "Train",
+            "ko": "Train"
+          },
+          "image": {
+            "file": "train.heic",
+            "sha256": "447a986e8f816d2ceb2a612224f88c07631be0794f13007e7d02dfde7922eeee"
+          },
+          "mask": {
+            "file": "train-wall.png",
+            "sha256": "8f5e5af576c0b6041d17b9423a7b1fc5c7adb7e6f254119d4e56169f5af73d98"
+          },
+          "regions": [
+            {
+              "id": "vehicles-train-r0",
+              "seedPoint": {
+                "x": 112,
+                "y": 56
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "vehicles-train-r1",
+              "seedPoint": {
+                "x": 184,
+                "y": 187
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "vehicles-train-r2",
+              "seedPoint": {
+                "x": 179,
+                "y": 153
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "vehicles-train-r3",
+              "seedPoint": {
+                "x": 93,
+                "y": 181
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "vehicles-train-r4",
+              "seedPoint": {
+                "x": 188,
+                "y": 174
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "vehicles-train-r5",
+              "seedPoint": {
+                "x": 133,
+                "y": 181
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "vehicles-train-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-vehicles-truck",
+          "name": {
+            "en": "Truck",
+            "sv": "Truck",
+            "ko": "Truck"
+          },
+          "image": {
+            "file": "truck.heic",
+            "sha256": "e9de0906d8b25110c9f043ee6c926e2532f9301ad79acd1fd34e2dbd6f6dbf21"
+          },
+          "mask": {
+            "file": "truck-wall.png",
+            "sha256": "21a332204e0998ce57f98f2cfbbf2e479cce465c45b1c671cce16f5c77fe224e"
+          },
+          "regions": [
+            {
+              "id": "vehicles-truck-r0",
+              "seedPoint": {
+                "x": 198,
+                "y": 141
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "vehicles-truck-r1",
+              "seedPoint": {
+                "x": 175,
+                "y": 65
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "vehicles-truck-r2",
+              "seedPoint": {
+                "x": 99,
+                "y": 175
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "vehicles-truck-r3",
+              "seedPoint": {
+                "x": 52,
+                "y": 187
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "vehicles-truck-r4",
+              "seedPoint": {
+                "x": 98,
+                "y": 124
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "vehicles-truck-r5",
+              "seedPoint": {
+                "x": 142,
+                "y": 231
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "vehicles-truck-r0",
+            "colorId": "red"
+          }
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "title": {
+        "en": "Animals",
+        "sv": "Djur",
+        "ko": "동물"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-animals-bear",
+          "name": {
+            "en": "Bear",
+            "sv": "Bear",
+            "ko": "Bear"
+          },
+          "image": {
+            "file": "bear.heic",
+            "sha256": "6bbdf3d83ad2d2390ade09bec7b9cda5e2c1a4c56aaf8eb4f95b49d43ef96a35"
+          },
+          "mask": {
+            "file": "bear-wall.png",
+            "sha256": "2d3d9a891fb7f5241818a872aca71eaa609b8f25cc7c64172451069715cabb13"
+          },
+          "regions": [
+            {
+              "id": "animals-bear-r0",
+              "seedPoint": {
+                "x": 149,
+                "y": 80
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "animals-bear-r1",
+              "seedPoint": {
+                "x": 149,
+                "y": 207
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "animals-bear-r2",
+              "seedPoint": {
+                "x": 213,
+                "y": 244
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "animals-bear-r3",
+              "seedPoint": {
+                "x": 85,
+                "y": 243
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "animals-bear-r4",
+              "seedPoint": {
+                "x": 149,
+                "y": 129
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "animals-bear-r5",
+              "seedPoint": {
+                "x": 209,
+                "y": 187
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "animals-bear-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-animals-dog",
+          "name": {
+            "en": "Dog",
+            "sv": "Dog",
+            "ko": "Dog"
+          },
+          "image": {
+            "file": "dog.heic",
+            "sha256": "22b77338e8193ae86fc91018c71687a0a1496cc117da92d8b5d589727bca4e56"
+          },
+          "mask": {
+            "file": "dog-wall.png",
+            "sha256": "5af1f6d4adf61fda48e1e102812a6eaedcf8c60d085d565c7bfeede258a8be77"
+          },
+          "regions": [
+            {
+              "id": "animals-dog-r0",
+              "seedPoint": {
+                "x": 159,
+                "y": 147
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "animals-dog-r1",
+              "seedPoint": {
+                "x": 78,
+                "y": 68
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "animals-dog-r2",
+              "seedPoint": {
+                "x": 101,
+                "y": 233
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "animals-dog-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-animals-duck",
+          "name": {
+            "en": "Duck",
+            "sv": "Duck",
+            "ko": "Duck"
+          },
+          "image": {
+            "file": "duck.heic",
+            "sha256": "f51ee504a0ed2f7be9987b65b26c203e345ffb31d5996a8645812e5bb4707a2d"
+          },
+          "mask": {
+            "file": "duck-wall.png",
+            "sha256": "68bb7cc2693990a4b9db85bde7b40b7cac3a8c042001022e3cda7d0b14b74b1d"
+          },
+          "regions": [
+            {
+              "id": "animals-duck-r0",
+              "seedPoint": {
+                "x": 151,
+                "y": 194
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "animals-duck-r1",
+              "seedPoint": {
+                "x": 137,
+                "y": 69
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "animals-duck-r2",
+              "seedPoint": {
+                "x": 174,
+                "y": 195
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "animals-duck-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-animals-elephant",
+          "name": {
+            "en": "Elephant",
+            "sv": "Elephant",
+            "ko": "Elephant"
+          },
+          "image": {
+            "file": "elephant.heic",
+            "sha256": "4129e912405985d30cd3935a14be1f952fcd6a3445facba5f46261e58cf271f0"
+          },
+          "mask": {
+            "file": "elephant-wall.png",
+            "sha256": "131a397d474b732a43b187c6315ffe3ea328c12dbe22c86f5ba7c167a2e34877"
+          },
+          "regions": [
+            {
+              "id": "animals-elephant-r0",
+              "seedPoint": {
+                "x": 154,
+                "y": 147
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "animals-elephant-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-animals-lion",
+          "name": {
+            "en": "Lion",
+            "sv": "Lion",
+            "ko": "Lion"
+          },
+          "image": {
+            "file": "lion.heic",
+            "sha256": "8708d6330106c2697b03b209b419e2821ccbb6962c7a1cc631331ac4ef0e2525"
+          },
+          "mask": {
+            "file": "lion-wall.png",
+            "sha256": "09974442f2293b0812efb207f92d40fef016c79dcb98a55788a6c92643feb846"
+          },
+          "regions": [
+            {
+              "id": "animals-lion-r0",
+              "seedPoint": {
+                "x": 150,
+                "y": 134
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "animals-lion-r1",
+              "seedPoint": {
+                "x": 216,
+                "y": 88
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "animals-lion-r2",
+              "seedPoint": {
+                "x": 212,
+                "y": 187
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "animals-lion-r3",
+              "seedPoint": {
+                "x": 157,
+                "y": 212
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "animals-lion-r4",
+              "seedPoint": {
+                "x": 58,
+                "y": 142
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "animals-lion-r5",
+              "seedPoint": {
+                "x": 69,
+                "y": 165
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "animals-lion-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-animals-rabbit",
+          "name": {
+            "en": "Rabbit",
+            "sv": "Rabbit",
+            "ko": "Rabbit"
+          },
+          "image": {
+            "file": "rabbit.heic",
+            "sha256": "321f8b6966c641c49baa1f82f94189ff2ede4dd5dd4d974c336800c0e367570c"
+          },
+          "mask": {
+            "file": "rabbit-wall.png",
+            "sha256": "c73c41fcfafdbabbacdc6dcf6b4804a1c309652c9274aa8e0fcc0df8a9f15004"
+          },
+          "regions": [
+            {
+              "id": "animals-rabbit-r0",
+              "seedPoint": {
+                "x": 149,
+                "y": 156
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "animals-rabbit-r1",
+              "seedPoint": {
+                "x": 150,
+                "y": 243
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "animals-rabbit-r2",
+              "seedPoint": {
+                "x": 100,
+                "y": 62
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "animals-rabbit-r3",
+              "seedPoint": {
+                "x": 198,
+                "y": 61
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "animals-rabbit-r4",
+              "seedPoint": {
+                "x": 100,
+                "y": 251
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "animals-rabbit-r5",
+              "seedPoint": {
+                "x": 199,
+                "y": 251
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "animals-rabbit-r0",
+            "colorId": "red"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cars",
+      "title": {
+        "en": "Cars",
+        "sv": "Bilar",
+        "ko": "자동차"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-cars-classiccar",
+          "name": {
+            "en": "Classiccar",
+            "sv": "Classiccar",
+            "ko": "Classiccar"
+          },
+          "image": {
+            "file": "classiccar.heic",
+            "sha256": "63e9c97759e00fcab3a43f4511f48b7346dd4dd564909605ad223f5077415004"
+          },
+          "mask": {
+            "file": "classiccar-wall.png",
+            "sha256": "1a84137c4788e3fd5496d7580824277887a7a8eef29c3143ccb23ad8f05a56a6"
+          },
+          "regions": [
+            {
+              "id": "cars-classiccar-r0",
+              "seedPoint": {
+                "x": 165,
+                "y": 200
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "cars-classiccar-r1",
+              "seedPoint": {
+                "x": 132,
+                "y": 213
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "cars-classiccar-r2",
+              "seedPoint": {
+                "x": 176,
+                "y": 126
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "cars-classiccar-r3",
+              "seedPoint": {
+                "x": 130,
+                "y": 186
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "cars-classiccar-r4",
+              "seedPoint": {
+                "x": 152,
+                "y": 246
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "cars-classiccar-r5",
+              "seedPoint": {
+                "x": 200,
+                "y": 157
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "cars-classiccar-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-cars-convertible",
+          "name": {
+            "en": "Convertible",
+            "sv": "Convertible",
+            "ko": "Convertible"
+          },
+          "image": {
+            "file": "convertible.heic",
+            "sha256": "a4d225ebadefc1c7f317e06380e4523458141e0a4a1c4073cbca959748eed63f"
+          },
+          "mask": {
+            "file": "convertible-wall.png",
+            "sha256": "423a6a67903816e06a2d5dec6c7371b6e1a5d0b96c2b31d40d8ff10bba44f4ef"
+          },
+          "regions": [
+            {
+              "id": "cars-convertible-r0",
+              "seedPoint": {
+                "x": 129,
+                "y": 204
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "cars-convertible-r1",
+              "seedPoint": {
+                "x": 210,
+                "y": 195
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "cars-convertible-r2",
+              "seedPoint": {
+                "x": 143,
+                "y": 150
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "cars-convertible-r3",
+              "seedPoint": {
+                "x": 139,
+                "y": 227
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "cars-convertible-r4",
+              "seedPoint": {
+                "x": 43,
+                "y": 232
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "cars-convertible-r5",
+              "seedPoint": {
+                "x": 277,
+                "y": 216
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "cars-convertible-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-cars-pickup",
+          "name": {
+            "en": "Pickup",
+            "sv": "Pickup",
+            "ko": "Pickup"
+          },
+          "image": {
+            "file": "pickup.heic",
+            "sha256": "8ebc661fc2545c22c8bda0963b6e11a77cb2a1f007d18d03dd1e0f9f49a7ae76"
+          },
+          "mask": {
+            "file": "pickup-wall.png",
+            "sha256": "a07d8cbaf61ec5fe062d9cb4331b5212c3665f2875e8d7c5540c0a49a14bcc80"
+          },
+          "regions": [
+            {
+              "id": "cars-pickup-r0",
+              "seedPoint": {
+                "x": 110,
+                "y": 156
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "cars-pickup-r1",
+              "seedPoint": {
+                "x": 232,
+                "y": 160
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "cars-pickup-r2",
+              "seedPoint": {
+                "x": 147,
+                "y": 214
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "cars-pickup-r3",
+              "seedPoint": {
+                "x": 128,
+                "y": 115
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "cars-pickup-r4",
+              "seedPoint": {
+                "x": 247,
+                "y": 198
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "cars-pickup-r5",
+              "seedPoint": {
+                "x": 47,
+                "y": 197
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "cars-pickup-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-cars-policecar",
+          "name": {
+            "en": "Policecar",
+            "sv": "Policecar",
+            "ko": "Policecar"
+          },
+          "image": {
+            "file": "policecar.heic",
+            "sha256": "d65f170041857fce730bcf6c583ce9e24fd3703790a520fc25a592423104d310"
+          },
+          "mask": {
+            "file": "policecar-wall.png",
+            "sha256": "371b312dacb890b3d95d9b8bd1deb879e871c74f15ef1ee7efbef2557f744d5b"
+          },
+          "regions": [
+            {
+              "id": "cars-policecar-r0",
+              "seedPoint": {
+                "x": 142,
+                "y": 163
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "cars-policecar-r1",
+              "seedPoint": {
+                "x": 160,
+                "y": 116
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "cars-policecar-r2",
+              "seedPoint": {
+                "x": 161,
+                "y": 182
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "cars-policecar-r3",
+              "seedPoint": {
+                "x": 217,
+                "y": 106
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "cars-policecar-r4",
+              "seedPoint": {
+                "x": 217,
+                "y": 118
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "cars-policecar-r5",
+              "seedPoint": {
+                "x": 77,
+                "y": 200
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "cars-policecar-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-cars-racecar",
+          "name": {
+            "en": "Racecar",
+            "sv": "Racecar",
+            "ko": "Racecar"
+          },
+          "image": {
+            "file": "racecar.heic",
+            "sha256": "08b2a7d850ae4a635c11b623b45b8d778b8cb88c75bf3423192ac56423740ac7"
+          },
+          "mask": {
+            "file": "racecar-wall.png",
+            "sha256": "e0b0ed21ccf9a2b30acb341604946f63b2e9b2d2160f25ec9187eb436c12fb06"
+          },
+          "regions": [
+            {
+              "id": "cars-racecar-r0",
+              "seedPoint": {
+                "x": 112,
+                "y": 172
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "cars-racecar-r1",
+              "seedPoint": {
+                "x": 216,
+                "y": 135
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "cars-racecar-r2",
+              "seedPoint": {
+                "x": 159,
+                "y": 124
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "cars-racecar-r3",
+              "seedPoint": {
+                "x": 255,
+                "y": 137
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "cars-racecar-r4",
+              "seedPoint": {
+                "x": 240,
+                "y": 180
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "cars-racecar-r5",
+              "seedPoint": {
+                "x": 146,
+                "y": 178
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "cars-racecar-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-cars-sportscar",
+          "name": {
+            "en": "Sportscar",
+            "sv": "Sportscar",
+            "ko": "Sportscar"
+          },
+          "image": {
+            "file": "sportscar.heic",
+            "sha256": "6a9223737ced7e1ee0e094db8ded9056a385c32e1d78d5de93cdc1102d441af7"
+          },
+          "mask": {
+            "file": "sportscar-wall.png",
+            "sha256": "76ff00d8f003f3bdda55e8e1ced951c815ec3687662591ad22861e27da215a04"
+          },
+          "regions": [
+            {
+              "id": "cars-sportscar-r0",
+              "seedPoint": {
+                "x": 153,
+                "y": 170
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "cars-sportscar-r1",
+              "seedPoint": {
+                "x": 163,
+                "y": 137
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "cars-sportscar-r2",
+              "seedPoint": {
+                "x": 277,
+                "y": 175
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "cars-sportscar-r3",
+              "seedPoint": {
+                "x": 121,
+                "y": 133
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "cars-sportscar-r4",
+              "seedPoint": {
+                "x": 26,
+                "y": 185
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "cars-sportscar-r5",
+              "seedPoint": {
+                "x": 169,
+                "y": 119
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "cars-sportscar-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-cars-suv",
+          "name": {
+            "en": "Suv",
+            "sv": "Suv",
+            "ko": "Suv"
+          },
+          "image": {
+            "file": "suv.heic",
+            "sha256": "f027f7ea44396890a509b98bf32bf9844b1e89072bc0e74bccf95976aeb9732c"
+          },
+          "mask": {
+            "file": "suv-wall.png",
+            "sha256": "f3e676762336524795986fa15b7c029bf3b7ebc6b242de22ec31340a2da7195d"
+          },
+          "regions": [
+            {
+              "id": "cars-suv-r0",
+              "seedPoint": {
+                "x": 160,
+                "y": 167
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "cars-suv-r1",
+              "seedPoint": {
+                "x": 236,
+                "y": 205
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "cars-suv-r2",
+              "seedPoint": {
+                "x": 68,
+                "y": 204
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "cars-suv-r3",
+              "seedPoint": {
+                "x": 189,
+                "y": 165
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "cars-suv-r4",
+              "seedPoint": {
+                "x": 149,
+                "y": 230
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "cars-suv-r5",
+              "seedPoint": {
+                "x": 167,
+                "y": 117
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "cars-suv-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-cars-taxi",
+          "name": {
+            "en": "Taxi",
+            "sv": "Taxi",
+            "ko": "Taxi"
+          },
+          "image": {
+            "file": "taxi.heic",
+            "sha256": "b55591b1fcb296c30ba2174b7400eafd48943fc562d521d1c463ccdeede0cde4"
+          },
+          "mask": {
+            "file": "taxi-wall.png",
+            "sha256": "faf710d66a4f0f4bb23fa25fcbd5dede28bb1ff3f5111d96ca7ddb5e5bdef2e0"
+          },
+          "regions": [
+            {
+              "id": "cars-taxi-r0",
+              "seedPoint": {
+                "x": 147,
+                "y": 178
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "cars-taxi-r1",
+              "seedPoint": {
+                "x": 110,
+                "y": 118
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "cars-taxi-r2",
+              "seedPoint": {
+                "x": 203,
+                "y": 100
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "cars-taxi-r3",
+              "seedPoint": {
+                "x": 172,
+                "y": 118
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "cars-taxi-r4",
+              "seedPoint": {
+                "x": 175,
+                "y": 180
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "cars-taxi-r5",
+              "seedPoint": {
+                "x": 219,
+                "y": 122
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "cars-taxi-r0",
+            "colorId": "red"
+          }
+        }
+      ]
+    },
+    {
+      "id": "trains",
+      "title": {
+        "en": "Trains",
+        "sv": "Tåg",
+        "ko": "기차"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-trains-bullettrain",
+          "name": {
+            "en": "Bullettrain",
+            "sv": "Bullettrain",
+            "ko": "Bullettrain"
+          },
+          "image": {
+            "file": "bullettrain.heic",
+            "sha256": "9e09e80fc908fd0133c474e26cf4deacca39dce5acb287db1c7c04d317765b08"
+          },
+          "mask": {
+            "file": "bullettrain-wall.png",
+            "sha256": "7d719285261ae8edaffb719673c37d77d3c9b4046672ab8fc9a679ec5eed3299"
+          },
+          "regions": [
+            {
+              "id": "trains-bullettrain-r0",
+              "seedPoint": {
+                "x": 160,
+                "y": 177
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "trains-bullettrain-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-trains-freighttrain",
+          "name": {
+            "en": "Freighttrain",
+            "sv": "Freighttrain",
+            "ko": "Freighttrain"
+          },
+          "image": {
+            "file": "freighttrain.heic",
+            "sha256": "256837814fd883c9c78b6aca51d4125dc9ffa27c21620016d4e228809a0dac88"
+          },
+          "mask": {
+            "file": "freighttrain-wall.png",
+            "sha256": "583ad326ed329cc58b2133495ff62f7d6852f009a1376b252814d9d7bd519842"
+          },
+          "regions": [
+            {
+              "id": "trains-freighttrain-r0",
+              "seedPoint": {
+                "x": 171,
+                "y": 138
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "trains-freighttrain-r1",
+              "seedPoint": {
+                "x": 165,
+                "y": 203
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "trains-freighttrain-r2",
+              "seedPoint": {
+                "x": 173,
+                "y": 61
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "trains-freighttrain-r3",
+              "seedPoint": {
+                "x": 66,
+                "y": 153
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "trains-freighttrain-r4",
+              "seedPoint": {
+                "x": 126,
+                "y": 113
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "trains-freighttrain-r5",
+              "seedPoint": {
+                "x": 187,
+                "y": 113
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "trains-freighttrain-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-trains-steamengine",
+          "name": {
+            "en": "Steamengine",
+            "sv": "Steamengine",
+            "ko": "Steamengine"
+          },
+          "image": {
+            "file": "steamengine.heic",
+            "sha256": "1299120ea1c4b21741b022bf599588622cfcb199b22fe98d6ef3f2ddd65788bd"
+          },
+          "mask": {
+            "file": "steamengine-wall.png",
+            "sha256": "7cd5afca13cdeff3ef26a4ec62c8caa4a038cc3a83dda9d02116a14494aa7a01"
+          },
+          "regions": [
+            {
+              "id": "trains-steamengine-r0",
+              "seedPoint": {
+                "x": 180,
+                "y": 197
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "trains-steamengine-r1",
+              "seedPoint": {
+                "x": 176,
+                "y": 52
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "trains-steamengine-r2",
+              "seedPoint": {
+                "x": 66,
+                "y": 188
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "trains-steamengine-r3",
+              "seedPoint": {
+                "x": 187,
+                "y": 163
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "trains-steamengine-r4",
+              "seedPoint": {
+                "x": 146,
+                "y": 234
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "trains-steamengine-r5",
+              "seedPoint": {
+                "x": 255,
+                "y": 168
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "trains-steamengine-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-trains-subwaytrain",
+          "name": {
+            "en": "Subwaytrain",
+            "sv": "Subwaytrain",
+            "ko": "Subwaytrain"
+          },
+          "image": {
+            "file": "subwaytrain.heic",
+            "sha256": "ee48e2ed5f4b905f850c9056f94ec2420dabc5c34702470518521c1db4c68126"
+          },
+          "mask": {
+            "file": "subwaytrain-wall.png",
+            "sha256": "9a958b80c8b0bd88c6630513798a6403534d0cdc0efbc179e4aef9a5b0dea5b7"
+          },
+          "regions": [
+            {
+              "id": "trains-subwaytrain-r0",
+              "seedPoint": {
+                "x": 107,
+                "y": 135
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "trains-subwaytrain-r1",
+              "seedPoint": {
+                "x": 237,
+                "y": 150
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "trains-subwaytrain-r2",
+              "seedPoint": {
+                "x": 234,
+                "y": 182
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "trains-subwaytrain-r3",
+              "seedPoint": {
+                "x": 81,
+                "y": 174
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "trains-subwaytrain-r4",
+              "seedPoint": {
+                "x": 122,
+                "y": 111
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "trains-subwaytrain-r5",
+              "seedPoint": {
+                "x": 83,
+                "y": 117
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "trains-subwaytrain-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-trains-trainwagon",
+          "name": {
+            "en": "Trainwagon",
+            "sv": "Trainwagon",
+            "ko": "Trainwagon"
+          },
+          "image": {
+            "file": "trainwagon.heic",
+            "sha256": "e597bb7cd00eb804706cf2770f88d6ff3482f4d2f74da3b1eff97f1f556cbcdb"
+          },
+          "mask": {
+            "file": "trainwagon-wall.png",
+            "sha256": "6d4a28049b23bf3a90f604ac0b2575a9bcb34e33d0fc08ca68667e1adc21fb3b"
+          },
+          "regions": [
+            {
+              "id": "trains-trainwagon-r0",
+              "seedPoint": {
+                "x": 92,
+                "y": 152
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "trains-trainwagon-r1",
+              "seedPoint": {
+                "x": 157,
+                "y": 83
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "trains-trainwagon-r2",
+              "seedPoint": {
+                "x": 207,
+                "y": 152
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "trains-trainwagon-r3",
+              "seedPoint": {
+                "x": 229,
+                "y": 152
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "trains-trainwagon-r4",
+              "seedPoint": {
+                "x": 154,
+                "y": 153
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "trains-trainwagon-r5",
+              "seedPoint": {
+                "x": 135,
+                "y": 153
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "trains-trainwagon-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-trains-tram",
+          "name": {
+            "en": "Tram",
+            "sv": "Tram",
+            "ko": "Tram"
+          },
+          "image": {
+            "file": "tram.heic",
+            "sha256": "e3a7f6f059bd9dad2fcf5fc1e7d591050c1d067743075b1406834ddec0f644b1"
+          },
+          "mask": {
+            "file": "tram-wall.png",
+            "sha256": "da27c73e18d13f2cb97b3858b53da6eb19863e305f59a2d6ad0c0d7127fa81d5"
+          },
+          "regions": [
+            {
+              "id": "trains-tram-r0",
+              "seedPoint": {
+                "x": 230,
+                "y": 183
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "trains-tram-r1",
+              "seedPoint": {
+                "x": 101,
+                "y": 180
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "trains-tram-r2",
+              "seedPoint": {
+                "x": 171,
+                "y": 182
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "trains-tram-r3",
+              "seedPoint": {
+                "x": 206,
+                "y": 110
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "trains-tram-r4",
+              "seedPoint": {
+                "x": 163,
+                "y": 95
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "trains-tram-r5",
+              "seedPoint": {
+                "x": 88,
+                "y": 119
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "trains-tram-r0",
+            "colorId": "red"
+          }
+        }
+      ]
+    },
+    {
+      "id": "worktrucks",
+      "title": {
+        "en": "Work Trucks",
+        "sv": "Arbetsfordon",
+        "ko": "작업 트럭"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-worktrucks-cementmixer",
+          "name": {
+            "en": "Cementmixer",
+            "sv": "Cementmixer",
+            "ko": "Cementmixer"
+          },
+          "image": {
+            "file": "cementmixer.heic",
+            "sha256": "e77ac860f3acf1d8d99ade4a687557c5f3bf0e041076ac71190646f961aceebf"
+          },
+          "mask": {
+            "file": "cementmixer-wall.png",
+            "sha256": "0188e123de472a33a69fc586d7197a3ad9760145d237095243855195b1cb214f"
+          },
+          "regions": [
+            {
+              "id": "worktrucks-cementmixer-r0",
+              "seedPoint": {
+                "x": 142,
+                "y": 117
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "worktrucks-cementmixer-r1",
+              "seedPoint": {
+                "x": 207,
+                "y": 92
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "worktrucks-cementmixer-r2",
+              "seedPoint": {
+                "x": 48,
+                "y": 145
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "worktrucks-cementmixer-r3",
+              "seedPoint": {
+                "x": 58,
+                "y": 191
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "worktrucks-cementmixer-r4",
+              "seedPoint": {
+                "x": 227,
+                "y": 159
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "worktrucks-cementmixer-r5",
+              "seedPoint": {
+                "x": 144,
+                "y": 208
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "worktrucks-cementmixer-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-worktrucks-cranetruck",
+          "name": {
+            "en": "Cranetruck",
+            "sv": "Cranetruck",
+            "ko": "Cranetruck"
+          },
+          "image": {
+            "file": "cranetruck.heic",
+            "sha256": "b51c1053a18e8bf08a82167e51c279493c1252cbf7af1b9894de21fbe72a487a"
+          },
+          "mask": {
+            "file": "cranetruck-wall.png",
+            "sha256": "80a499e30f0d67c73c53367b596dd947ae5a9baffd4fc5a15d61f99658a28f19"
+          },
+          "regions": [
+            {
+              "id": "worktrucks-cranetruck-r0",
+              "seedPoint": {
+                "x": 203,
+                "y": 143
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "worktrucks-cranetruck-r1",
+              "seedPoint": {
+                "x": 140,
+                "y": 117
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "worktrucks-cranetruck-r2",
+              "seedPoint": {
+                "x": 84,
+                "y": 202
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "worktrucks-cranetruck-r3",
+              "seedPoint": {
+                "x": 237,
+                "y": 57
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "worktrucks-cranetruck-r4",
+              "seedPoint": {
+                "x": 151,
+                "y": 145
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "worktrucks-cranetruck-r5",
+              "seedPoint": {
+                "x": 109,
+                "y": 199
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "worktrucks-cranetruck-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-worktrucks-dumptruck",
+          "name": {
+            "en": "Dumptruck",
+            "sv": "Dumptruck",
+            "ko": "Dumptruck"
+          },
+          "image": {
+            "file": "dumptruck.heic",
+            "sha256": "c8a4dab704e27cc979752245af8eff7ae07bd37975e154e98ca58e3b2d4a4c33"
+          },
+          "mask": {
+            "file": "dumptruck-wall.png",
+            "sha256": "14a64ddcabcafde1ea2d0a520d73200d51f2ee25455a9e1ccd2de918d547f2bd"
+          },
+          "regions": [
+            {
+              "id": "worktrucks-dumptruck-r0",
+              "seedPoint": {
+                "x": 92,
+                "y": 150
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "worktrucks-dumptruck-r1",
+              "seedPoint": {
+                "x": 143,
+                "y": 254
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "worktrucks-dumptruck-r2",
+              "seedPoint": {
+                "x": 240,
+                "y": 103
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "worktrucks-dumptruck-r3",
+              "seedPoint": {
+                "x": 123,
+                "y": 106
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "worktrucks-dumptruck-r4",
+              "seedPoint": {
+                "x": 90,
+                "y": 101
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "worktrucks-dumptruck-r5",
+              "seedPoint": {
+                "x": 178,
+                "y": 121
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "worktrucks-dumptruck-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-worktrucks-excavator",
+          "name": {
+            "en": "Excavator",
+            "sv": "Excavator",
+            "ko": "Excavator"
+          },
+          "image": {
+            "file": "excavator.heic",
+            "sha256": "42f1d84f5f32f8ed14f57d876cb2c8e8a40a6905a6b90e53bd10b6ba4ceb9bde"
+          },
+          "mask": {
+            "file": "excavator-wall.png",
+            "sha256": "b29a1ee01c5ff0d5c26bb68d9711384bcdc7b4d9d7e2344c05c6f830ee510597"
+          },
+          "regions": [
+            {
+              "id": "worktrucks-excavator-r0",
+              "seedPoint": {
+                "x": 193,
+                "y": 170
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "worktrucks-excavator-r1",
+              "seedPoint": {
+                "x": 161,
+                "y": 114
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "worktrucks-excavator-r2",
+              "seedPoint": {
+                "x": 242,
+                "y": 233
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "worktrucks-excavator-r3",
+              "seedPoint": {
+                "x": 96,
+                "y": 229
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "worktrucks-excavator-r4",
+              "seedPoint": {
+                "x": 54,
+                "y": 174
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "worktrucks-excavator-r5",
+              "seedPoint": {
+                "x": 90,
+                "y": 179
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "worktrucks-excavator-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-worktrucks-firetruck",
+          "name": {
+            "en": "Firetruck",
+            "sv": "Firetruck",
+            "ko": "Firetruck"
+          },
+          "image": {
+            "file": "firetruck.heic",
+            "sha256": "c9910df893638334b1ae9e4c398d49360827f8cab70650112a28bf5f8bb9814e"
+          },
+          "mask": {
+            "file": "firetruck-wall.png",
+            "sha256": "b5400e6817802ae3074cc5537ad14ac5dd63656330a3933345ba305550728075"
+          },
+          "regions": [
+            {
+              "id": "worktrucks-firetruck-r0",
+              "seedPoint": {
+                "x": 127,
+                "y": 177
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "worktrucks-firetruck-r1",
+              "seedPoint": {
+                "x": 249,
+                "y": 148
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "worktrucks-firetruck-r2",
+              "seedPoint": {
+                "x": 56,
+                "y": 133
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "worktrucks-firetruck-r3",
+              "seedPoint": {
+                "x": 145,
+                "y": 247
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "worktrucks-firetruck-r4",
+              "seedPoint": {
+                "x": 106,
+                "y": 166
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "worktrucks-firetruck-r5",
+              "seedPoint": {
+                "x": 213,
+                "y": 108
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "worktrucks-firetruck-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-worktrucks-garbagetruck",
+          "name": {
+            "en": "Garbagetruck",
+            "sv": "Garbagetruck",
+            "ko": "Garbagetruck"
+          },
+          "image": {
+            "file": "garbagetruck.heic",
+            "sha256": "a748fc01ca06eb5816a209cbca1062753eec3762e26e5724f39b3d6ae73115b6"
+          },
+          "mask": {
+            "file": "garbagetruck-wall.png",
+            "sha256": "f7422380c5aa146fce14450b5115fa8b1745d29512597f51b21632c107658ea9"
+          },
+          "regions": [
+            {
+              "id": "worktrucks-garbagetruck-r0",
+              "seedPoint": {
+                "x": 169,
+                "y": 148
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "worktrucks-garbagetruck-r1",
+              "seedPoint": {
+                "x": 55,
+                "y": 180
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "worktrucks-garbagetruck-r2",
+              "seedPoint": {
+                "x": 229,
+                "y": 156
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "worktrucks-garbagetruck-r3",
+              "seedPoint": {
+                "x": 118,
+                "y": 143
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "worktrucks-garbagetruck-r4",
+              "seedPoint": {
+                "x": 138,
+                "y": 242
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "worktrucks-garbagetruck-r5",
+              "seedPoint": {
+                "x": 243,
+                "y": 157
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "worktrucks-garbagetruck-r0",
+            "colorId": "red"
+          }
+        }
+      ]
+    }
+  ]
+}
