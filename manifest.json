@@ -8,7 +8,7 @@
         "sv": "Fordon",
         "ko": "탈것"
       },
-      "version": 1,
+      "version": 2,
       "pages": [
         {
           "id": "pack-vehicles-airplane",
@@ -29,8 +29,8 @@
             {
               "id": "vehicles-airplane-r0",
               "seedPoint": {
-                "x": 165,
-                "y": 145
+                "x": 195,
+                "y": 142
               },
               "name": {
                 "en": "Area 1",
@@ -41,8 +41,8 @@
             {
               "id": "vehicles-airplane-r1",
               "seedPoint": {
-                "x": 117,
-                "y": 195
+                "x": 150,
+                "y": 179
               },
               "name": {
                 "en": "Area 2",
@@ -53,8 +53,8 @@
             {
               "id": "vehicles-airplane-r2",
               "seedPoint": {
-                "x": 162,
-                "y": 107
+                "x": 164,
+                "y": 111
               },
               "name": {
                 "en": "Area 3",
@@ -65,8 +65,8 @@
             {
               "id": "vehicles-airplane-r3",
               "seedPoint": {
-                "x": 68,
-                "y": 99
+                "x": 66,
+                "y": 101
               },
               "name": {
                 "en": "Area 4",
@@ -77,8 +77,8 @@
             {
               "id": "vehicles-airplane-r4",
               "seedPoint": {
-                "x": 125,
-                "y": 203
+                "x": 146,
+                "y": 193
               },
               "name": {
                 "en": "Area 5",
@@ -89,8 +89,8 @@
             {
               "id": "vehicles-airplane-r5",
               "seedPoint": {
-                "x": 236,
-                "y": 117
+                "x": 225,
+                "y": 125
               },
               "name": {
                 "en": "Area 6",
@@ -123,8 +123,8 @@
             {
               "id": "vehicles-boat-r0",
               "seedPoint": {
-                "x": 159,
-                "y": 135
+                "x": 173,
+                "y": 163
               },
               "name": {
                 "en": "Area 1",
@@ -135,8 +135,8 @@
             {
               "id": "vehicles-boat-r1",
               "seedPoint": {
-                "x": 101,
-                "y": 158
+                "x": 97,
+                "y": 171
               },
               "name": {
                 "en": "Area 2",
@@ -147,8 +147,8 @@
             {
               "id": "vehicles-boat-r2",
               "seedPoint": {
-                "x": 147,
-                "y": 233
+                "x": 71,
+                "y": 231
               },
               "name": {
                 "en": "Area 3",
@@ -159,8 +159,8 @@
             {
               "id": "vehicles-boat-r3",
               "seedPoint": {
-                "x": 153,
-                "y": 261
+                "x": 155,
+                "y": 262
               },
               "name": {
                 "en": "Area 4",
@@ -171,7 +171,7 @@
             {
               "id": "vehicles-boat-r4",
               "seedPoint": {
-                "x": 158,
+                "x": 153,
                 "y": 204
               },
               "name": {
@@ -205,8 +205,8 @@
             {
               "id": "vehicles-bus-r0",
               "seedPoint": {
-                "x": 203,
-                "y": 175
+                "x": 163,
+                "y": 188
               },
               "name": {
                 "en": "Area 1",
@@ -217,8 +217,8 @@
             {
               "id": "vehicles-bus-r1",
               "seedPoint": {
-                "x": 108,
-                "y": 124
+                "x": 100,
+                "y": 135
               },
               "name": {
                 "en": "Area 2",
@@ -229,8 +229,8 @@
             {
               "id": "vehicles-bus-r2",
               "seedPoint": {
-                "x": 87,
-                "y": 182
+                "x": 96,
+                "y": 188
               },
               "name": {
                 "en": "Area 3",
@@ -241,8 +241,8 @@
             {
               "id": "vehicles-bus-r3",
               "seedPoint": {
-                "x": 207,
-                "y": 87
+                "x": 158,
+                "y": 80
               },
               "name": {
                 "en": "Area 4",
@@ -253,8 +253,8 @@
             {
               "id": "vehicles-bus-r4",
               "seedPoint": {
-                "x": 117,
-                "y": 91
+                "x": 107,
+                "y": 88
               },
               "name": {
                 "en": "Area 5",
@@ -266,7 +266,7 @@
               "id": "vehicles-bus-r5",
               "seedPoint": {
                 "x": 168,
-                "y": 122
+                "y": 108
               },
               "name": {
                 "en": "Area 6",
@@ -299,8 +299,8 @@
             {
               "id": "vehicles-car-r0",
               "seedPoint": {
-                "x": 162,
-                "y": 163
+                "x": 137,
+                "y": 180
               },
               "name": {
                 "en": "Area 1",
@@ -311,8 +311,8 @@
             {
               "id": "vehicles-car-r1",
               "seedPoint": {
-                "x": 65,
-                "y": 171
+                "x": 78,
+                "y": 149
               },
               "name": {
                 "en": "Area 2",
@@ -323,8 +323,8 @@
             {
               "id": "vehicles-car-r2",
               "seedPoint": {
-                "x": 162,
-                "y": 101
+                "x": 165,
+                "y": 100
               },
               "name": {
                 "en": "Area 3",
@@ -335,8 +335,8 @@
             {
               "id": "vehicles-car-r3",
               "seedPoint": {
-                "x": 254,
-                "y": 175
+                "x": 263,
+                "y": 166
               },
               "name": {
                 "en": "Area 4",
@@ -348,7 +348,7 @@
               "id": "vehicles-car-r4",
               "seedPoint": {
                 "x": 214,
-                "y": 101
+                "y": 100
               },
               "name": {
                 "en": "Area 5",
@@ -359,8 +359,8 @@
             {
               "id": "vehicles-car-r5",
               "seedPoint": {
-                "x": 160,
-                "y": 214
+                "x": 192,
+                "y": 212
               },
               "name": {
                 "en": "Area 6",
@@ -393,8 +393,8 @@
             {
               "id": "vehicles-train-r0",
               "seedPoint": {
-                "x": 112,
-                "y": 56
+                "x": 108,
+                "y": 55
               },
               "name": {
                 "en": "Area 1",
@@ -405,8 +405,8 @@
             {
               "id": "vehicles-train-r1",
               "seedPoint": {
-                "x": 184,
-                "y": 187
+                "x": 177,
+                "y": 188
               },
               "name": {
                 "en": "Area 2",
@@ -417,8 +417,8 @@
             {
               "id": "vehicles-train-r2",
               "seedPoint": {
-                "x": 179,
-                "y": 153
+                "x": 174,
+                "y": 152
               },
               "name": {
                 "en": "Area 3",
@@ -430,7 +430,7 @@
               "id": "vehicles-train-r3",
               "seedPoint": {
                 "x": 93,
-                "y": 181
+                "y": 177
               },
               "name": {
                 "en": "Area 4",
@@ -441,8 +441,8 @@
             {
               "id": "vehicles-train-r4",
               "seedPoint": {
-                "x": 188,
-                "y": 174
+                "x": 210,
+                "y": 172
               },
               "name": {
                 "en": "Area 5",
@@ -453,8 +453,8 @@
             {
               "id": "vehicles-train-r5",
               "seedPoint": {
-                "x": 133,
-                "y": 181
+                "x": 128,
+                "y": 182
               },
               "name": {
                 "en": "Area 6",
@@ -487,8 +487,8 @@
             {
               "id": "vehicles-truck-r0",
               "seedPoint": {
-                "x": 198,
-                "y": 141
+                "x": 195,
+                "y": 145
               },
               "name": {
                 "en": "Area 1",
@@ -499,8 +499,8 @@
             {
               "id": "vehicles-truck-r1",
               "seedPoint": {
-                "x": 175,
-                "y": 65
+                "x": 148,
+                "y": 66
               },
               "name": {
                 "en": "Area 2",
@@ -512,7 +512,7 @@
               "id": "vehicles-truck-r2",
               "seedPoint": {
                 "x": 99,
-                "y": 175
+                "y": 179
               },
               "name": {
                 "en": "Area 3",
@@ -523,8 +523,8 @@
             {
               "id": "vehicles-truck-r3",
               "seedPoint": {
-                "x": 52,
-                "y": 187
+                "x": 46,
+                "y": 179
               },
               "name": {
                 "en": "Area 4",
@@ -547,8 +547,8 @@
             {
               "id": "vehicles-truck-r5",
               "seedPoint": {
-                "x": 142,
-                "y": 231
+                "x": 154,
+                "y": 230
               },
               "name": {
                 "en": "Area 6",
@@ -571,7 +571,7 @@
         "sv": "Djur",
         "ko": "동물"
       },
-      "version": 1,
+      "version": 2,
       "pages": [
         {
           "id": "pack-animals-bear",
@@ -592,8 +592,8 @@
             {
               "id": "animals-bear-r0",
               "seedPoint": {
-                "x": 149,
-                "y": 80
+                "x": 129,
+                "y": 65
               },
               "name": {
                 "en": "Area 1",
@@ -605,7 +605,7 @@
               "id": "animals-bear-r1",
               "seedPoint": {
                 "x": 149,
-                "y": 207
+                "y": 210
               },
               "name": {
                 "en": "Area 2",
@@ -616,8 +616,8 @@
             {
               "id": "animals-bear-r2",
               "seedPoint": {
-                "x": 213,
-                "y": 244
+                "x": 219,
+                "y": 251
               },
               "name": {
                 "en": "Area 3",
@@ -628,8 +628,8 @@
             {
               "id": "animals-bear-r3",
               "seedPoint": {
-                "x": 85,
-                "y": 243
+                "x": 77,
+                "y": 247
               },
               "name": {
                 "en": "Area 4",
@@ -640,8 +640,8 @@
             {
               "id": "animals-bear-r4",
               "seedPoint": {
-                "x": 149,
-                "y": 129
+                "x": 172,
+                "y": 122
               },
               "name": {
                 "en": "Area 5",
@@ -652,8 +652,8 @@
             {
               "id": "animals-bear-r5",
               "seedPoint": {
-                "x": 209,
-                "y": 187
+                "x": 210,
+                "y": 186
               },
               "name": {
                 "en": "Area 6",
@@ -686,8 +686,8 @@
             {
               "id": "animals-dog-r0",
               "seedPoint": {
-                "x": 159,
-                "y": 147
+                "x": 195,
+                "y": 124
               },
               "name": {
                 "en": "Area 1",
@@ -698,8 +698,8 @@
             {
               "id": "animals-dog-r1",
               "seedPoint": {
-                "x": 78,
-                "y": 68
+                "x": 75,
+                "y": 69
               },
               "name": {
                 "en": "Area 2",
@@ -710,8 +710,8 @@
             {
               "id": "animals-dog-r2",
               "seedPoint": {
-                "x": 101,
-                "y": 233
+                "x": 99,
+                "y": 227
               },
               "name": {
                 "en": "Area 3",
@@ -744,8 +744,8 @@
             {
               "id": "animals-duck-r0",
               "seedPoint": {
-                "x": 151,
-                "y": 194
+                "x": 107,
+                "y": 199
               },
               "name": {
                 "en": "Area 1",
@@ -756,8 +756,8 @@
             {
               "id": "animals-duck-r1",
               "seedPoint": {
-                "x": 137,
-                "y": 69
+                "x": 162,
+                "y": 52
               },
               "name": {
                 "en": "Area 2",
@@ -768,8 +768,8 @@
             {
               "id": "animals-duck-r2",
               "seedPoint": {
-                "x": 174,
-                "y": 195
+                "x": 171,
+                "y": 192
               },
               "name": {
                 "en": "Area 3",
@@ -802,8 +802,8 @@
             {
               "id": "animals-elephant-r0",
               "seedPoint": {
-                "x": 154,
-                "y": 147
+                "x": 210,
+                "y": 149
               },
               "name": {
                 "en": "Area 1",
@@ -836,8 +836,8 @@
             {
               "id": "animals-lion-r0",
               "seedPoint": {
-                "x": 150,
-                "y": 134
+                "x": 158,
+                "y": 115
               },
               "name": {
                 "en": "Area 1",
@@ -848,8 +848,8 @@
             {
               "id": "animals-lion-r1",
               "seedPoint": {
-                "x": 216,
-                "y": 88
+                "x": 195,
+                "y": 60
               },
               "name": {
                 "en": "Area 2",
@@ -860,8 +860,8 @@
             {
               "id": "animals-lion-r2",
               "seedPoint": {
-                "x": 212,
-                "y": 187
+                "x": 208,
+                "y": 193
               },
               "name": {
                 "en": "Area 3",
@@ -872,8 +872,8 @@
             {
               "id": "animals-lion-r3",
               "seedPoint": {
-                "x": 157,
-                "y": 212
+                "x": 151,
+                "y": 226
               },
               "name": {
                 "en": "Area 4",
@@ -884,8 +884,8 @@
             {
               "id": "animals-lion-r4",
               "seedPoint": {
-                "x": 58,
-                "y": 142
+                "x": 50,
+                "y": 141
               },
               "name": {
                 "en": "Area 5",
@@ -896,8 +896,8 @@
             {
               "id": "animals-lion-r5",
               "seedPoint": {
-                "x": 69,
-                "y": 165
+                "x": 73,
+                "y": 155
               },
               "name": {
                 "en": "Area 6",
@@ -930,8 +930,8 @@
             {
               "id": "animals-rabbit-r0",
               "seedPoint": {
-                "x": 149,
-                "y": 156
+                "x": 160,
+                "y": 135
               },
               "name": {
                 "en": "Area 1",
@@ -942,8 +942,8 @@
             {
               "id": "animals-rabbit-r1",
               "seedPoint": {
-                "x": 150,
-                "y": 243
+                "x": 147,
+                "y": 227
               },
               "name": {
                 "en": "Area 2",
@@ -954,8 +954,8 @@
             {
               "id": "animals-rabbit-r2",
               "seedPoint": {
-                "x": 100,
-                "y": 62
+                "x": 94,
+                "y": 57
               },
               "name": {
                 "en": "Area 3",
@@ -966,8 +966,8 @@
             {
               "id": "animals-rabbit-r3",
               "seedPoint": {
-                "x": 198,
-                "y": 61
+                "x": 203,
+                "y": 56
               },
               "name": {
                 "en": "Area 4",
@@ -978,8 +978,8 @@
             {
               "id": "animals-rabbit-r4",
               "seedPoint": {
-                "x": 100,
-                "y": 251
+                "x": 99,
+                "y": 250
               },
               "name": {
                 "en": "Area 5",
@@ -990,7 +990,7 @@
             {
               "id": "animals-rabbit-r5",
               "seedPoint": {
-                "x": 199,
+                "x": 200,
                 "y": 251
               },
               "name": {
@@ -1014,7 +1014,7 @@
         "sv": "Bilar",
         "ko": "자동차"
       },
-      "version": 1,
+      "version": 2,
       "pages": [
         {
           "id": "pack-cars-classiccar",
@@ -1035,8 +1035,8 @@
             {
               "id": "cars-classiccar-r0",
               "seedPoint": {
-                "x": 165,
-                "y": 200
+                "x": 195,
+                "y": 217
               },
               "name": {
                 "en": "Area 1",
@@ -1047,8 +1047,8 @@
             {
               "id": "cars-classiccar-r1",
               "seedPoint": {
-                "x": 132,
-                "y": 213
+                "x": 109,
+                "y": 214
               },
               "name": {
                 "en": "Area 2",
@@ -1059,8 +1059,8 @@
             {
               "id": "cars-classiccar-r2",
               "seedPoint": {
-                "x": 176,
-                "y": 126
+                "x": 175,
+                "y": 124
               },
               "name": {
                 "en": "Area 3",
@@ -1071,7 +1071,7 @@
             {
               "id": "cars-classiccar-r3",
               "seedPoint": {
-                "x": 130,
+                "x": 101,
                 "y": 186
               },
               "name": {
@@ -1083,7 +1083,7 @@
             {
               "id": "cars-classiccar-r4",
               "seedPoint": {
-                "x": 152,
+                "x": 195,
                 "y": 246
               },
               "name": {
@@ -1095,8 +1095,8 @@
             {
               "id": "cars-classiccar-r5",
               "seedPoint": {
-                "x": 200,
-                "y": 157
+                "x": 195,
+                "y": 156
               },
               "name": {
                 "en": "Area 6",
@@ -1129,8 +1129,8 @@
             {
               "id": "cars-convertible-r0",
               "seedPoint": {
-                "x": 129,
-                "y": 204
+                "x": 64,
+                "y": 190
               },
               "name": {
                 "en": "Area 1",
@@ -1141,8 +1141,8 @@
             {
               "id": "cars-convertible-r1",
               "seedPoint": {
-                "x": 210,
-                "y": 195
+                "x": 212,
+                "y": 196
               },
               "name": {
                 "en": "Area 2",
@@ -1153,8 +1153,8 @@
             {
               "id": "cars-convertible-r2",
               "seedPoint": {
-                "x": 143,
-                "y": 150
+                "x": 146,
+                "y": 149
               },
               "name": {
                 "en": "Area 3",
@@ -1166,7 +1166,7 @@
               "id": "cars-convertible-r3",
               "seedPoint": {
                 "x": 139,
-                "y": 227
+                "y": 229
               },
               "name": {
                 "en": "Area 4",
@@ -1177,8 +1177,8 @@
             {
               "id": "cars-convertible-r4",
               "seedPoint": {
-                "x": 43,
-                "y": 232
+                "x": 36,
+                "y": 231
               },
               "name": {
                 "en": "Area 5",
@@ -1190,7 +1190,7 @@
               "id": "cars-convertible-r5",
               "seedPoint": {
                 "x": 277,
-                "y": 216
+                "y": 211
               },
               "name": {
                 "en": "Area 6",
@@ -1223,8 +1223,8 @@
             {
               "id": "cars-pickup-r0",
               "seedPoint": {
-                "x": 110,
-                "y": 156
+                "x": 113,
+                "y": 165
               },
               "name": {
                 "en": "Area 1",
@@ -1235,8 +1235,8 @@
             {
               "id": "cars-pickup-r1",
               "seedPoint": {
-                "x": 232,
-                "y": 160
+                "x": 272,
+                "y": 153
               },
               "name": {
                 "en": "Area 2",
@@ -1247,8 +1247,8 @@
             {
               "id": "cars-pickup-r2",
               "seedPoint": {
-                "x": 147,
-                "y": 214
+                "x": 176,
+                "y": 213
               },
               "name": {
                 "en": "Area 3",
@@ -1259,8 +1259,8 @@
             {
               "id": "cars-pickup-r3",
               "seedPoint": {
-                "x": 128,
-                "y": 115
+                "x": 129,
+                "y": 114
               },
               "name": {
                 "en": "Area 4",
@@ -1271,8 +1271,8 @@
             {
               "id": "cars-pickup-r4",
               "seedPoint": {
-                "x": 247,
-                "y": 198
+                "x": 239,
+                "y": 190
               },
               "name": {
                 "en": "Area 5",
@@ -1283,8 +1283,8 @@
             {
               "id": "cars-pickup-r5",
               "seedPoint": {
-                "x": 47,
-                "y": 197
+                "x": 40,
+                "y": 189
               },
               "name": {
                 "en": "Area 6",
@@ -1317,8 +1317,8 @@
             {
               "id": "cars-policecar-r0",
               "seedPoint": {
-                "x": 142,
-                "y": 163
+                "x": 34,
+                "y": 186
               },
               "name": {
                 "en": "Area 1",
@@ -1329,8 +1329,8 @@
             {
               "id": "cars-policecar-r1",
               "seedPoint": {
-                "x": 160,
-                "y": 116
+                "x": 163,
+                "y": 115
               },
               "name": {
                 "en": "Area 2",
@@ -1341,8 +1341,8 @@
             {
               "id": "cars-policecar-r2",
               "seedPoint": {
-                "x": 161,
-                "y": 182
+                "x": 142,
+                "y": 180
               },
               "name": {
                 "en": "Area 3",
@@ -1353,8 +1353,8 @@
             {
               "id": "cars-policecar-r3",
               "seedPoint": {
-                "x": 217,
-                "y": 106
+                "x": 241,
+                "y": 98
               },
               "name": {
                 "en": "Area 4",
@@ -1365,8 +1365,8 @@
             {
               "id": "cars-policecar-r4",
               "seedPoint": {
-                "x": 217,
-                "y": 118
+                "x": 219,
+                "y": 117
               },
               "name": {
                 "en": "Area 5",
@@ -1377,8 +1377,8 @@
             {
               "id": "cars-policecar-r5",
               "seedPoint": {
-                "x": 77,
-                "y": 200
+                "x": 62,
+                "y": 185
               },
               "name": {
                 "en": "Area 6",
@@ -1411,7 +1411,7 @@
             {
               "id": "cars-racecar-r0",
               "seedPoint": {
-                "x": 112,
+                "x": 96,
                 "y": 172
               },
               "name": {
@@ -1423,8 +1423,8 @@
             {
               "id": "cars-racecar-r1",
               "seedPoint": {
-                "x": 216,
-                "y": 135
+                "x": 237,
+                "y": 144
               },
               "name": {
                 "en": "Area 2",
@@ -1435,8 +1435,8 @@
             {
               "id": "cars-racecar-r2",
               "seedPoint": {
-                "x": 159,
-                "y": 124
+                "x": 148,
+                "y": 122
               },
               "name": {
                 "en": "Area 3",
@@ -1447,8 +1447,8 @@
             {
               "id": "cars-racecar-r3",
               "seedPoint": {
-                "x": 255,
-                "y": 137
+                "x": 260,
+                "y": 133
               },
               "name": {
                 "en": "Area 4",
@@ -1459,8 +1459,8 @@
             {
               "id": "cars-racecar-r4",
               "seedPoint": {
-                "x": 240,
-                "y": 180
+                "x": 226,
+                "y": 186
               },
               "name": {
                 "en": "Area 5",
@@ -1471,8 +1471,8 @@
             {
               "id": "cars-racecar-r5",
               "seedPoint": {
-                "x": 146,
-                "y": 178
+                "x": 147,
+                "y": 175
               },
               "name": {
                 "en": "Area 6",
@@ -1505,8 +1505,8 @@
             {
               "id": "cars-sportscar-r0",
               "seedPoint": {
-                "x": 153,
-                "y": 170
+                "x": 157,
+                "y": 180
               },
               "name": {
                 "en": "Area 1",
@@ -1517,8 +1517,8 @@
             {
               "id": "cars-sportscar-r1",
               "seedPoint": {
-                "x": 163,
-                "y": 137
+                "x": 152,
+                "y": 136
               },
               "name": {
                 "en": "Area 2",
@@ -1529,8 +1529,8 @@
             {
               "id": "cars-sportscar-r2",
               "seedPoint": {
-                "x": 277,
-                "y": 175
+                "x": 279,
+                "y": 169
               },
               "name": {
                 "en": "Area 3",
@@ -1541,8 +1541,8 @@
             {
               "id": "cars-sportscar-r3",
               "seedPoint": {
-                "x": 121,
-                "y": 133
+                "x": 117,
+                "y": 137
               },
               "name": {
                 "en": "Area 4",
@@ -1554,7 +1554,7 @@
               "id": "cars-sportscar-r4",
               "seedPoint": {
                 "x": 26,
-                "y": 185
+                "y": 176
               },
               "name": {
                 "en": "Area 5",
@@ -1565,8 +1565,8 @@
             {
               "id": "cars-sportscar-r5",
               "seedPoint": {
-                "x": 169,
-                "y": 119
+                "x": 179,
+                "y": 120
               },
               "name": {
                 "en": "Area 6",
@@ -1599,7 +1599,7 @@
             {
               "id": "cars-suv-r0",
               "seedPoint": {
-                "x": 160,
+                "x": 145,
                 "y": 167
               },
               "name": {
@@ -1611,8 +1611,8 @@
             {
               "id": "cars-suv-r1",
               "seedPoint": {
-                "x": 236,
-                "y": 205
+                "x": 237,
+                "y": 238
               },
               "name": {
                 "en": "Area 2",
@@ -1623,8 +1623,8 @@
             {
               "id": "cars-suv-r2",
               "seedPoint": {
-                "x": 68,
-                "y": 204
+                "x": 87,
+                "y": 185
               },
               "name": {
                 "en": "Area 3",
@@ -1635,8 +1635,8 @@
             {
               "id": "cars-suv-r3",
               "seedPoint": {
-                "x": 189,
-                "y": 165
+                "x": 115,
+                "y": 166
               },
               "name": {
                 "en": "Area 4",
@@ -1647,7 +1647,7 @@
             {
               "id": "cars-suv-r4",
               "seedPoint": {
-                "x": 149,
+                "x": 127,
                 "y": 230
               },
               "name": {
@@ -1659,7 +1659,7 @@
             {
               "id": "cars-suv-r5",
               "seedPoint": {
-                "x": 167,
+                "x": 157,
                 "y": 117
               },
               "name": {
@@ -1693,8 +1693,8 @@
             {
               "id": "cars-taxi-r0",
               "seedPoint": {
-                "x": 147,
-                "y": 178
+                "x": 114,
+                "y": 183
               },
               "name": {
                 "en": "Area 1",
@@ -1705,8 +1705,8 @@
             {
               "id": "cars-taxi-r1",
               "seedPoint": {
-                "x": 110,
-                "y": 118
+                "x": 98,
+                "y": 117
               },
               "name": {
                 "en": "Area 2",
@@ -1717,8 +1717,8 @@
             {
               "id": "cars-taxi-r2",
               "seedPoint": {
-                "x": 203,
-                "y": 100
+                "x": 241,
+                "y": 99
               },
               "name": {
                 "en": "Area 3",
@@ -1730,7 +1730,7 @@
               "id": "cars-taxi-r3",
               "seedPoint": {
                 "x": 172,
-                "y": 118
+                "y": 111
               },
               "name": {
                 "en": "Area 4",
@@ -1741,8 +1741,8 @@
             {
               "id": "cars-taxi-r4",
               "seedPoint": {
-                "x": 175,
-                "y": 180
+                "x": 172,
+                "y": 185
               },
               "name": {
                 "en": "Area 5",
@@ -1753,8 +1753,8 @@
             {
               "id": "cars-taxi-r5",
               "seedPoint": {
-                "x": 219,
-                "y": 122
+                "x": 217,
+                "y": 125
               },
               "name": {
                 "en": "Area 6",
@@ -1777,7 +1777,7 @@
         "sv": "Tåg",
         "ko": "기차"
       },
-      "version": 1,
+      "version": 2,
       "pages": [
         {
           "id": "pack-trains-bullettrain",
@@ -1798,8 +1798,8 @@
             {
               "id": "trains-bullettrain-r0",
               "seedPoint": {
-                "x": 160,
-                "y": 177
+                "x": 269,
+                "y": 173
               },
               "name": {
                 "en": "Area 1",
@@ -1832,8 +1832,8 @@
             {
               "id": "trains-freighttrain-r0",
               "seedPoint": {
-                "x": 171,
-                "y": 138
+                "x": 156,
+                "y": 156
               },
               "name": {
                 "en": "Area 1",
@@ -1844,7 +1844,7 @@
             {
               "id": "trains-freighttrain-r1",
               "seedPoint": {
-                "x": 165,
+                "x": 98,
                 "y": 203
               },
               "name": {
@@ -1856,8 +1856,8 @@
             {
               "id": "trains-freighttrain-r2",
               "seedPoint": {
-                "x": 173,
-                "y": 61
+                "x": 186,
+                "y": 62
               },
               "name": {
                 "en": "Area 3",
@@ -1868,8 +1868,8 @@
             {
               "id": "trains-freighttrain-r3",
               "seedPoint": {
-                "x": 66,
-                "y": 153
+                "x": 65,
+                "y": 151
               },
               "name": {
                 "en": "Area 4",
@@ -1880,8 +1880,8 @@
             {
               "id": "trains-freighttrain-r4",
               "seedPoint": {
-                "x": 126,
-                "y": 113
+                "x": 127,
+                "y": 111
               },
               "name": {
                 "en": "Area 5",
@@ -1892,8 +1892,8 @@
             {
               "id": "trains-freighttrain-r5",
               "seedPoint": {
-                "x": 187,
-                "y": 113
+                "x": 186,
+                "y": 105
               },
               "name": {
                 "en": "Area 6",
@@ -1926,8 +1926,8 @@
             {
               "id": "trains-steamengine-r0",
               "seedPoint": {
-                "x": 180,
-                "y": 197
+                "x": 222,
+                "y": 199
               },
               "name": {
                 "en": "Area 1",
@@ -1938,8 +1938,8 @@
             {
               "id": "trains-steamengine-r1",
               "seedPoint": {
-                "x": 176,
-                "y": 52
+                "x": 171,
+                "y": 53
               },
               "name": {
                 "en": "Area 2",
@@ -1950,8 +1950,8 @@
             {
               "id": "trains-steamengine-r2",
               "seedPoint": {
-                "x": 66,
-                "y": 188
+                "x": 63,
+                "y": 191
               },
               "name": {
                 "en": "Area 3",
@@ -1962,8 +1962,8 @@
             {
               "id": "trains-steamengine-r3",
               "seedPoint": {
-                "x": 187,
-                "y": 163
+                "x": 200,
+                "y": 162
               },
               "name": {
                 "en": "Area 4",
@@ -1974,8 +1974,8 @@
             {
               "id": "trains-steamengine-r4",
               "seedPoint": {
-                "x": 146,
-                "y": 234
+                "x": 56,
+                "y": 233
               },
               "name": {
                 "en": "Area 5",
@@ -1986,8 +1986,8 @@
             {
               "id": "trains-steamengine-r5",
               "seedPoint": {
-                "x": 255,
-                "y": 168
+                "x": 231,
+                "y": 128
               },
               "name": {
                 "en": "Area 6",
@@ -2020,8 +2020,8 @@
             {
               "id": "trains-subwaytrain-r0",
               "seedPoint": {
-                "x": 107,
-                "y": 135
+                "x": 146,
+                "y": 165
               },
               "name": {
                 "en": "Area 1",
@@ -2032,8 +2032,8 @@
             {
               "id": "trains-subwaytrain-r1",
               "seedPoint": {
-                "x": 237,
-                "y": 150
+                "x": 234,
+                "y": 162
               },
               "name": {
                 "en": "Area 2",
@@ -2044,8 +2044,8 @@
             {
               "id": "trains-subwaytrain-r2",
               "seedPoint": {
-                "x": 234,
-                "y": 182
+                "x": 223,
+                "y": 189
               },
               "name": {
                 "en": "Area 3",
@@ -2056,8 +2056,8 @@
             {
               "id": "trains-subwaytrain-r3",
               "seedPoint": {
-                "x": 81,
-                "y": 174
+                "x": 80,
+                "y": 166
               },
               "name": {
                 "en": "Area 4",
@@ -2068,8 +2068,8 @@
             {
               "id": "trains-subwaytrain-r4",
               "seedPoint": {
-                "x": 122,
-                "y": 111
+                "x": 125,
+                "y": 103
               },
               "name": {
                 "en": "Area 5",
@@ -2114,8 +2114,8 @@
             {
               "id": "trains-trainwagon-r0",
               "seedPoint": {
-                "x": 92,
-                "y": 152
+                "x": 93,
+                "y": 132
               },
               "name": {
                 "en": "Area 1",
@@ -2126,7 +2126,7 @@
             {
               "id": "trains-trainwagon-r1",
               "seedPoint": {
-                "x": 157,
+                "x": 98,
                 "y": 83
               },
               "name": {
@@ -2139,7 +2139,7 @@
               "id": "trains-trainwagon-r2",
               "seedPoint": {
                 "x": 207,
-                "y": 152
+                "y": 115
               },
               "name": {
                 "en": "Area 3",
@@ -2151,7 +2151,7 @@
               "id": "trains-trainwagon-r3",
               "seedPoint": {
                 "x": 229,
-                "y": 152
+                "y": 119
               },
               "name": {
                 "en": "Area 4",
@@ -2163,7 +2163,7 @@
               "id": "trains-trainwagon-r4",
               "seedPoint": {
                 "x": 154,
-                "y": 153
+                "y": 144
               },
               "name": {
                 "en": "Area 5",
@@ -2175,7 +2175,7 @@
               "id": "trains-trainwagon-r5",
               "seedPoint": {
                 "x": 135,
-                "y": 153
+                "y": 112
               },
               "name": {
                 "en": "Area 6",
@@ -2208,8 +2208,8 @@
             {
               "id": "trains-tram-r0",
               "seedPoint": {
-                "x": 230,
-                "y": 183
+                "x": 208,
+                "y": 177
               },
               "name": {
                 "en": "Area 1",
@@ -2220,8 +2220,8 @@
             {
               "id": "trains-tram-r1",
               "seedPoint": {
-                "x": 101,
-                "y": 180
+                "x": 124,
+                "y": 191
               },
               "name": {
                 "en": "Area 2",
@@ -2233,7 +2233,7 @@
               "id": "trains-tram-r2",
               "seedPoint": {
                 "x": 171,
-                "y": 182
+                "y": 168
               },
               "name": {
                 "en": "Area 3",
@@ -2244,8 +2244,8 @@
             {
               "id": "trains-tram-r3",
               "seedPoint": {
-                "x": 206,
-                "y": 110
+                "x": 216,
+                "y": 89
               },
               "name": {
                 "en": "Area 4",
@@ -2256,8 +2256,8 @@
             {
               "id": "trains-tram-r4",
               "seedPoint": {
-                "x": 163,
-                "y": 95
+                "x": 174,
+                "y": 93
               },
               "name": {
                 "en": "Area 5",
@@ -2268,8 +2268,8 @@
             {
               "id": "trains-tram-r5",
               "seedPoint": {
-                "x": 88,
-                "y": 119
+                "x": 113,
+                "y": 109
               },
               "name": {
                 "en": "Area 6",
@@ -2292,7 +2292,7 @@
         "sv": "Arbetsfordon",
         "ko": "작업 트럭"
       },
-      "version": 1,
+      "version": 2,
       "pages": [
         {
           "id": "pack-worktrucks-cementmixer",
@@ -2313,8 +2313,8 @@
             {
               "id": "worktrucks-cementmixer-r0",
               "seedPoint": {
-                "x": 142,
-                "y": 117
+                "x": 139,
+                "y": 114
               },
               "name": {
                 "en": "Area 1",
@@ -2326,7 +2326,7 @@
               "id": "worktrucks-cementmixer-r1",
               "seedPoint": {
                 "x": 207,
-                "y": 92
+                "y": 87
               },
               "name": {
                 "en": "Area 2",
@@ -2337,8 +2337,8 @@
             {
               "id": "worktrucks-cementmixer-r2",
               "seedPoint": {
-                "x": 48,
-                "y": 145
+                "x": 50,
+                "y": 142
               },
               "name": {
                 "en": "Area 3",
@@ -2349,8 +2349,8 @@
             {
               "id": "worktrucks-cementmixer-r3",
               "seedPoint": {
-                "x": 58,
-                "y": 191
+                "x": 30,
+                "y": 197
               },
               "name": {
                 "en": "Area 4",
@@ -2361,8 +2361,8 @@
             {
               "id": "worktrucks-cementmixer-r4",
               "seedPoint": {
-                "x": 227,
-                "y": 159
+                "x": 229,
+                "y": 162
               },
               "name": {
                 "en": "Area 5",
@@ -2373,8 +2373,8 @@
             {
               "id": "worktrucks-cementmixer-r5",
               "seedPoint": {
-                "x": 144,
-                "y": 208
+                "x": 152,
+                "y": 201
               },
               "name": {
                 "en": "Area 6",
@@ -2407,8 +2407,8 @@
             {
               "id": "worktrucks-cranetruck-r0",
               "seedPoint": {
-                "x": 203,
-                "y": 143
+                "x": 199,
+                "y": 151
               },
               "name": {
                 "en": "Area 1",
@@ -2419,8 +2419,8 @@
             {
               "id": "worktrucks-cranetruck-r1",
               "seedPoint": {
-                "x": 140,
-                "y": 117
+                "x": 131,
+                "y": 128
               },
               "name": {
                 "en": "Area 2",
@@ -2431,8 +2431,8 @@
             {
               "id": "worktrucks-cranetruck-r2",
               "seedPoint": {
-                "x": 84,
-                "y": 202
+                "x": 75,
+                "y": 210
               },
               "name": {
                 "en": "Area 3",
@@ -2443,7 +2443,7 @@
             {
               "id": "worktrucks-cranetruck-r3",
               "seedPoint": {
-                "x": 237,
+                "x": 232,
                 "y": 57
               },
               "name": {
@@ -2455,8 +2455,8 @@
             {
               "id": "worktrucks-cranetruck-r4",
               "seedPoint": {
-                "x": 151,
-                "y": 145
+                "x": 149,
+                "y": 149
               },
               "name": {
                 "en": "Area 5",
@@ -2467,8 +2467,8 @@
             {
               "id": "worktrucks-cranetruck-r5",
               "seedPoint": {
-                "x": 109,
-                "y": 199
+                "x": 110,
+                "y": 209
               },
               "name": {
                 "en": "Area 6",
@@ -2501,8 +2501,8 @@
             {
               "id": "worktrucks-dumptruck-r0",
               "seedPoint": {
-                "x": 92,
-                "y": 150
+                "x": 56,
+                "y": 162
               },
               "name": {
                 "en": "Area 1",
@@ -2513,8 +2513,8 @@
             {
               "id": "worktrucks-dumptruck-r1",
               "seedPoint": {
-                "x": 143,
-                "y": 254
+                "x": 157,
+                "y": 253
               },
               "name": {
                 "en": "Area 2",
@@ -2525,8 +2525,8 @@
             {
               "id": "worktrucks-dumptruck-r2",
               "seedPoint": {
-                "x": 240,
-                "y": 103
+                "x": 174,
+                "y": 71
               },
               "name": {
                 "en": "Area 3",
@@ -2537,8 +2537,8 @@
             {
               "id": "worktrucks-dumptruck-r3",
               "seedPoint": {
-                "x": 123,
-                "y": 106
+                "x": 121,
+                "y": 116
               },
               "name": {
                 "en": "Area 4",
@@ -2549,8 +2549,8 @@
             {
               "id": "worktrucks-dumptruck-r4",
               "seedPoint": {
-                "x": 90,
-                "y": 101
+                "x": 91,
+                "y": 96
               },
               "name": {
                 "en": "Area 5",
@@ -2561,8 +2561,8 @@
             {
               "id": "worktrucks-dumptruck-r5",
               "seedPoint": {
-                "x": 178,
-                "y": 121
+                "x": 174,
+                "y": 120
               },
               "name": {
                 "en": "Area 6",
@@ -2595,8 +2595,8 @@
             {
               "id": "worktrucks-excavator-r0",
               "seedPoint": {
-                "x": 193,
-                "y": 170
+                "x": 188,
+                "y": 149
               },
               "name": {
                 "en": "Area 1",
@@ -2607,7 +2607,7 @@
             {
               "id": "worktrucks-excavator-r1",
               "seedPoint": {
-                "x": 161,
+                "x": 149,
                 "y": 114
               },
               "name": {
@@ -2620,7 +2620,7 @@
               "id": "worktrucks-excavator-r2",
               "seedPoint": {
                 "x": 242,
-                "y": 233
+                "y": 231
               },
               "name": {
                 "en": "Area 3",
@@ -2631,7 +2631,7 @@
             {
               "id": "worktrucks-excavator-r3",
               "seedPoint": {
-                "x": 96,
+                "x": 59,
                 "y": 229
               },
               "name": {
@@ -2643,7 +2643,7 @@
             {
               "id": "worktrucks-excavator-r4",
               "seedPoint": {
-                "x": 54,
+                "x": 53,
                 "y": 174
               },
               "name": {
@@ -2655,7 +2655,7 @@
             {
               "id": "worktrucks-excavator-r5",
               "seedPoint": {
-                "x": 90,
+                "x": 79,
                 "y": 179
               },
               "name": {
@@ -2689,8 +2689,8 @@
             {
               "id": "worktrucks-firetruck-r0",
               "seedPoint": {
-                "x": 127,
-                "y": 177
+                "x": 50,
+                "y": 173
               },
               "name": {
                 "en": "Area 1",
@@ -2701,7 +2701,7 @@
             {
               "id": "worktrucks-firetruck-r1",
               "seedPoint": {
-                "x": 249,
+                "x": 237,
                 "y": 148
               },
               "name": {
@@ -2713,7 +2713,7 @@
             {
               "id": "worktrucks-firetruck-r2",
               "seedPoint": {
-                "x": 56,
+                "x": 52,
                 "y": 133
               },
               "name": {
@@ -2725,7 +2725,7 @@
             {
               "id": "worktrucks-firetruck-r3",
               "seedPoint": {
-                "x": 145,
+                "x": 112,
                 "y": 247
               },
               "name": {
@@ -2737,8 +2737,8 @@
             {
               "id": "worktrucks-firetruck-r4",
               "seedPoint": {
-                "x": 106,
-                "y": 166
+                "x": 105,
+                "y": 185
               },
               "name": {
                 "en": "Area 5",
@@ -2749,7 +2749,7 @@
             {
               "id": "worktrucks-firetruck-r5",
               "seedPoint": {
-                "x": 213,
+                "x": 188,
                 "y": 108
               },
               "name": {
@@ -2784,7 +2784,7 @@
               "id": "worktrucks-garbagetruck-r0",
               "seedPoint": {
                 "x": 169,
-                "y": 148
+                "y": 146
               },
               "name": {
                 "en": "Area 1",
@@ -2795,8 +2795,8 @@
             {
               "id": "worktrucks-garbagetruck-r1",
               "seedPoint": {
-                "x": 55,
-                "y": 180
+                "x": 51,
+                "y": 186
               },
               "name": {
                 "en": "Area 2",
@@ -2807,8 +2807,8 @@
             {
               "id": "worktrucks-garbagetruck-r2",
               "seedPoint": {
-                "x": 229,
-                "y": 156
+                "x": 264,
+                "y": 209
               },
               "name": {
                 "en": "Area 3",
@@ -2820,7 +2820,7 @@
               "id": "worktrucks-garbagetruck-r3",
               "seedPoint": {
                 "x": 118,
-                "y": 143
+                "y": 96
               },
               "name": {
                 "en": "Area 4",
@@ -2831,8 +2831,8 @@
             {
               "id": "worktrucks-garbagetruck-r4",
               "seedPoint": {
-                "x": 138,
-                "y": 242
+                "x": 155,
+                "y": 240
               },
               "name": {
                 "en": "Area 5",
@@ -2843,8 +2843,8 @@
             {
               "id": "worktrucks-garbagetruck-r5",
               "seedPoint": {
-                "x": 243,
-                "y": 157
+                "x": 237,
+                "y": 144
               },
               "name": {
                 "en": "Area 6",
@@ -2867,7 +2867,7 @@
         "sv": "Rymden",
         "ko": "우주"
       },
-      "version": 1,
+      "version": 2,
       "pages": [
         {
           "id": "pack-space-helicopter",
@@ -2888,7 +2888,7 @@
             {
               "id": "space-helicopter-r0",
               "seedPoint": {
-                "x": 149,
+                "x": 190,
                 "y": 69
               },
               "name": {
@@ -2900,8 +2900,8 @@
             {
               "id": "space-helicopter-r1",
               "seedPoint": {
-                "x": 167,
-                "y": 149
+                "x": 164,
+                "y": 121
               },
               "name": {
                 "en": "Area 2",
@@ -2912,8 +2912,8 @@
             {
               "id": "space-helicopter-r2",
               "seedPoint": {
-                "x": 97,
-                "y": 168
+                "x": 105,
+                "y": 154
               },
               "name": {
                 "en": "Area 3",
@@ -2924,8 +2924,8 @@
             {
               "id": "space-helicopter-r3",
               "seedPoint": {
-                "x": 212,
-                "y": 97
+                "x": 188,
+                "y": 101
               },
               "name": {
                 "en": "Area 4",
@@ -2936,8 +2936,8 @@
             {
               "id": "space-helicopter-r4",
               "seedPoint": {
-                "x": 88,
-                "y": 206
+                "x": 74,
+                "y": 207
               },
               "name": {
                 "en": "Area 5",
@@ -2948,8 +2948,8 @@
             {
               "id": "space-helicopter-r5",
               "seedPoint": {
-                "x": 143,
-                "y": 167
+                "x": 144,
+                "y": 170
               },
               "name": {
                 "en": "Area 6",
@@ -2983,7 +2983,7 @@
               "id": "space-hotairballoon-r0",
               "seedPoint": {
                 "x": 149,
-                "y": 62
+                "y": 69
               },
               "name": {
                 "en": "Area 1",
@@ -2995,7 +2995,7 @@
               "id": "space-hotairballoon-r1",
               "seedPoint": {
                 "x": 149,
-                "y": 128
+                "y": 122
               },
               "name": {
                 "en": "Area 2",
@@ -3006,8 +3006,8 @@
             {
               "id": "space-hotairballoon-r2",
               "seedPoint": {
-                "x": 115,
-                "y": 61
+                "x": 111,
+                "y": 69
               },
               "name": {
                 "en": "Area 3",
@@ -3018,8 +3018,8 @@
             {
               "id": "space-hotairballoon-r3",
               "seedPoint": {
-                "x": 184,
-                "y": 61
+                "x": 188,
+                "y": 71
               },
               "name": {
                 "en": "Area 4",
@@ -3030,8 +3030,8 @@
             {
               "id": "space-hotairballoon-r4",
               "seedPoint": {
-                "x": 209,
-                "y": 66
+                "x": 216,
+                "y": 83
               },
               "name": {
                 "en": "Area 5",
@@ -3042,8 +3042,8 @@
             {
               "id": "space-hotairballoon-r5",
               "seedPoint": {
-                "x": 89,
-                "y": 66
+                "x": 83,
+                "y": 87
               },
               "name": {
                 "en": "Area 6",
@@ -3076,8 +3076,8 @@
             {
               "id": "space-planetrings-r0",
               "seedPoint": {
-                "x": 162,
-                "y": 136
+                "x": 133,
+                "y": 108
               },
               "name": {
                 "en": "Area 1",
@@ -3088,8 +3088,8 @@
             {
               "id": "space-planetrings-r1",
               "seedPoint": {
-                "x": 145,
-                "y": 190
+                "x": 49,
+                "y": 145
               },
               "name": {
                 "en": "Area 2",
@@ -3100,8 +3100,8 @@
             {
               "id": "space-planetrings-r2",
               "seedPoint": {
-                "x": 131,
-                "y": 219
+                "x": 133,
+                "y": 223
               },
               "name": {
                 "en": "Area 3",
@@ -3134,8 +3134,8 @@
             {
               "id": "space-rocket-r0",
               "seedPoint": {
-                "x": 150,
-                "y": 132
+                "x": 162,
+                "y": 157
               },
               "name": {
                 "en": "Area 1",
@@ -3146,8 +3146,8 @@
             {
               "id": "space-rocket-r1",
               "seedPoint": {
-                "x": 248,
-                "y": 270
+                "x": 232,
+                "y": 275
               },
               "name": {
                 "en": "Area 2",
@@ -3158,8 +3158,8 @@
             {
               "id": "space-rocket-r2",
               "seedPoint": {
-                "x": 148,
-                "y": 250
+                "x": 144,
+                "y": 251
               },
               "name": {
                 "en": "Area 3",
@@ -3170,8 +3170,8 @@
             {
               "id": "space-rocket-r3",
               "seedPoint": {
-                "x": 51,
-                "y": 279
+                "x": 50,
+                "y": 273
               },
               "name": {
                 "en": "Area 4",
@@ -3182,8 +3182,8 @@
             {
               "id": "space-rocket-r4",
               "seedPoint": {
-                "x": 64,
-                "y": 258
+                "x": 71,
+                "y": 257
               },
               "name": {
                 "en": "Area 5",
@@ -3195,7 +3195,7 @@
               "id": "space-rocket-r5",
               "seedPoint": {
                 "x": 151,
-                "y": 48
+                "y": 45
               },
               "name": {
                 "en": "Area 6",
@@ -3228,8 +3228,8 @@
             {
               "id": "space-satellite-r0",
               "seedPoint": {
-                "x": 237,
-                "y": 214
+                "x": 242,
+                "y": 206
               },
               "name": {
                 "en": "Area 1",
@@ -3252,8 +3252,8 @@
             {
               "id": "space-satellite-r2",
               "seedPoint": {
-                "x": 191,
-                "y": 191
+                "x": 189,
+                "y": 193
               },
               "name": {
                 "en": "Area 3",
@@ -3264,8 +3264,8 @@
             {
               "id": "space-satellite-r3",
               "seedPoint": {
-                "x": 74,
-                "y": 137
+                "x": 81,
+                "y": 129
               },
               "name": {
                 "en": "Area 4",
@@ -3276,8 +3276,8 @@
             {
               "id": "space-satellite-r4",
               "seedPoint": {
-                "x": 117,
-                "y": 184
+                "x": 100,
+                "y": 178
               },
               "name": {
                 "en": "Area 5",
@@ -3288,8 +3288,8 @@
             {
               "id": "space-satellite-r5",
               "seedPoint": {
-                "x": 129,
-                "y": 154
+                "x": 134,
+                "y": 155
               },
               "name": {
                 "en": "Area 6",
@@ -3322,8 +3322,8 @@
             {
               "id": "space-ufo-r0",
               "seedPoint": {
-                "x": 145,
-                "y": 176
+                "x": 112,
+                "y": 178
               },
               "name": {
                 "en": "Area 1",
@@ -3334,8 +3334,8 @@
             {
               "id": "space-ufo-r1",
               "seedPoint": {
-                "x": 159,
-                "y": 128
+                "x": 156,
+                "y": 125
               },
               "name": {
                 "en": "Area 2",
@@ -3346,8 +3346,8 @@
             {
               "id": "space-ufo-r2",
               "seedPoint": {
-                "x": 138,
-                "y": 208
+                "x": 33,
+                "y": 170
               },
               "name": {
                 "en": "Area 3",
@@ -3358,8 +3358,8 @@
             {
               "id": "space-ufo-r3",
               "seedPoint": {
-                "x": 132,
-                "y": 222
+                "x": 79,
+                "y": 206
               },
               "name": {
                 "en": "Area 4",
@@ -3382,7 +3382,7 @@
         "sv": "Båtar",
         "ko": "배"
       },
-      "version": 1,
+      "version": 2,
       "pages": [
         {
           "id": "pack-boats-canoe",
@@ -3403,8 +3403,8 @@
             {
               "id": "boats-canoe-r0",
               "seedPoint": {
-                "x": 87,
-                "y": 174
+                "x": 57,
+                "y": 177
               },
               "name": {
                 "en": "Area 1",
@@ -3415,8 +3415,8 @@
             {
               "id": "boats-canoe-r1",
               "seedPoint": {
-                "x": 231,
-                "y": 136
+                "x": 217,
+                "y": 146
               },
               "name": {
                 "en": "Area 2",
@@ -3427,8 +3427,8 @@
             {
               "id": "boats-canoe-r2",
               "seedPoint": {
-                "x": 166,
-                "y": 125
+                "x": 143,
+                "y": 121
               },
               "name": {
                 "en": "Area 3",
@@ -3439,8 +3439,8 @@
             {
               "id": "boats-canoe-r3",
               "seedPoint": {
-                "x": 253,
-                "y": 181
+                "x": 268,
+                "y": 185
               },
               "name": {
                 "en": "Area 4",
@@ -3473,8 +3473,8 @@
             {
               "id": "boats-ferry-r0",
               "seedPoint": {
-                "x": 146,
-                "y": 170
+                "x": 54,
+                "y": 174
               },
               "name": {
                 "en": "Area 1",
@@ -3485,8 +3485,8 @@
             {
               "id": "boats-ferry-r1",
               "seedPoint": {
-                "x": 86,
-                "y": 136
+                "x": 91,
+                "y": 138
               },
               "name": {
                 "en": "Area 2",
@@ -3497,7 +3497,7 @@
             {
               "id": "boats-ferry-r2",
               "seedPoint": {
-                "x": 170,
+                "x": 147,
                 "y": 139
               },
               "name": {
@@ -3531,8 +3531,8 @@
             {
               "id": "boats-lighthouse-r0",
               "seedPoint": {
-                "x": 113,
-                "y": 153
+                "x": 124,
+                "y": 148
               },
               "name": {
                 "en": "Area 1",
@@ -3543,8 +3543,8 @@
             {
               "id": "boats-lighthouse-r1",
               "seedPoint": {
-                "x": 131,
-                "y": 245
+                "x": 119,
+                "y": 244
               },
               "name": {
                 "en": "Area 2",
@@ -3555,8 +3555,8 @@
             {
               "id": "boats-lighthouse-r2",
               "seedPoint": {
-                "x": 92,
-                "y": 234
+                "x": 74,
+                "y": 243
               },
               "name": {
                 "en": "Area 3",
@@ -3567,7 +3567,7 @@
             {
               "id": "boats-lighthouse-r3",
               "seedPoint": {
-                "x": 179,
+                "x": 180,
                 "y": 232
               },
               "name": {
@@ -3601,8 +3601,8 @@
             {
               "id": "boats-speedboat-r0",
               "seedPoint": {
-                "x": 159,
-                "y": 174
+                "x": 114,
+                "y": 171
               },
               "name": {
                 "en": "Area 1",
@@ -3613,8 +3613,8 @@
             {
               "id": "boats-speedboat-r1",
               "seedPoint": {
-                "x": 197,
-                "y": 89
+                "x": 208,
+                "y": 88
               },
               "name": {
                 "en": "Area 2",
@@ -3625,8 +3625,8 @@
             {
               "id": "boats-speedboat-r2",
               "seedPoint": {
-                "x": 130,
-                "y": 132
+                "x": 43,
+                "y": 139
               },
               "name": {
                 "en": "Area 3",
@@ -3637,8 +3637,8 @@
             {
               "id": "boats-speedboat-r3",
               "seedPoint": {
-                "x": 206,
-                "y": 64
+                "x": 221,
+                "y": 63
               },
               "name": {
                 "en": "Area 4",
@@ -3649,8 +3649,8 @@
             {
               "id": "boats-speedboat-r4",
               "seedPoint": {
-                "x": 218,
-                "y": 111
+                "x": 204,
+                "y": 110
               },
               "name": {
                 "en": "Area 5",
@@ -3661,8 +3661,8 @@
             {
               "id": "boats-speedboat-r5",
               "seedPoint": {
-                "x": 248,
-                "y": 81
+                "x": 254,
+                "y": 94
               },
               "name": {
                 "en": "Area 6",
@@ -3695,8 +3695,8 @@
             {
               "id": "boats-submarine-r0",
               "seedPoint": {
-                "x": 139,
-                "y": 156
+                "x": 112,
+                "y": 169
               },
               "name": {
                 "en": "Area 1",
@@ -3707,8 +3707,8 @@
             {
               "id": "boats-submarine-r1",
               "seedPoint": {
-                "x": 50,
-                "y": 154
+                "x": 47,
+                "y": 163
               },
               "name": {
                 "en": "Area 2",
@@ -3719,8 +3719,8 @@
             {
               "id": "boats-submarine-r2",
               "seedPoint": {
-                "x": 146,
-                "y": 207
+                "x": 125,
+                "y": 206
               },
               "name": {
                 "en": "Area 3",
@@ -3731,8 +3731,8 @@
             {
               "id": "boats-submarine-r3",
               "seedPoint": {
-                "x": 148,
-                "y": 100
+                "x": 134,
+                "y": 99
               },
               "name": {
                 "en": "Area 4",
@@ -3743,8 +3743,8 @@
             {
               "id": "boats-submarine-r4",
               "seedPoint": {
-                "x": 231,
-                "y": 158
+                "x": 233,
+                "y": 156
               },
               "name": {
                 "en": "Area 5",
@@ -3755,8 +3755,8 @@
             {
               "id": "boats-submarine-r5",
               "seedPoint": {
-                "x": 257,
-                "y": 160
+                "x": 259,
+                "y": 156
               },
               "name": {
                 "en": "Area 6",
@@ -3789,8 +3789,8 @@
             {
               "id": "boats-tugboat-r0",
               "seedPoint": {
-                "x": 161,
-                "y": 199
+                "x": 232,
+                "y": 203
               },
               "name": {
                 "en": "Area 1",
@@ -3801,8 +3801,8 @@
             {
               "id": "boats-tugboat-r1",
               "seedPoint": {
-                "x": 181,
-                "y": 254
+                "x": 236,
+                "y": 252
               },
               "name": {
                 "en": "Area 2",
@@ -3813,8 +3813,8 @@
             {
               "id": "boats-tugboat-r2",
               "seedPoint": {
-                "x": 139,
-                "y": 127
+                "x": 112,
+                "y": 151
               },
               "name": {
                 "en": "Area 3",
@@ -3825,8 +3825,8 @@
             {
               "id": "boats-tugboat-r3",
               "seedPoint": {
-                "x": 205,
-                "y": 132
+                "x": 230,
+                "y": 128
               },
               "name": {
                 "en": "Area 4",
@@ -3837,8 +3837,8 @@
             {
               "id": "boats-tugboat-r4",
               "seedPoint": {
-                "x": 167,
-                "y": 87
+                "x": 156,
+                "y": 84
               },
               "name": {
                 "en": "Area 5",
@@ -3850,7 +3850,7 @@
               "id": "boats-tugboat-r5",
               "seedPoint": {
                 "x": 277,
-                "y": 162
+                "y": 154
               },
               "name": {
                 "en": "Area 6",
@@ -3861,6 +3861,309 @@
           ],
           "guidedTarget": {
             "regionId": "boats-tugboat-r0",
+            "colorId": "red"
+          }
+        }
+      ]
+    },
+    {
+      "id": "friends",
+      "title": {
+        "en": "Friendly Faces",
+        "sv": "Glada Vänner",
+        "ko": "친구들"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-friends-mushroom-friend",
+          "name": {
+            "en": "Mushroom Friend",
+            "sv": "Mushroom Friend",
+            "ko": "Mushroom Friend"
+          },
+          "image": {
+            "file": "mushroom-friend.heic",
+            "sha256": "015142b14965e3c1286735fbdc509cd9854f6dba4bdd3358f06f07077a8e6448"
+          },
+          "mask": {
+            "file": "mushroom-friend-wall.png",
+            "sha256": "a970248429f3583b230aae5610e47d420ab4d6c886e8a3836ee2bbe733fb8b65"
+          },
+          "regions": [
+            {
+              "id": "friends-mushroom-friend-r0",
+              "seedPoint": {
+                "x": 124,
+                "y": 48
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "friends-mushroom-friend-r1",
+              "seedPoint": {
+                "x": 128,
+                "y": 204
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "friends-mushroom-friend-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-friends-rallycar-friend",
+          "name": {
+            "en": "Rallycar Friend",
+            "sv": "Rallycar Friend",
+            "ko": "Rallycar Friend"
+          },
+          "image": {
+            "file": "rallycar-friend.heic",
+            "sha256": "affdbef06aabf4da4a43d5dcb1c78a03c12c6689602503064bf33e9f5d5e0aac"
+          },
+          "mask": {
+            "file": "rallycar-friend-wall.png",
+            "sha256": "442f632edfd499b7aaac557f45a8bad5eb413bda55de06ad2fd4374beb0c2497"
+          },
+          "regions": [
+            {
+              "id": "friends-rallycar-friend-r0",
+              "seedPoint": {
+                "x": 165,
+                "y": 159
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "friends-rallycar-friend-r1",
+              "seedPoint": {
+                "x": 136,
+                "y": 91
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "friends-rallycar-friend-r2",
+              "seedPoint": {
+                "x": 192,
+                "y": 96
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "friends-rallycar-friend-r3",
+              "seedPoint": {
+                "x": 88,
+                "y": 221
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "friends-rallycar-friend-r4",
+              "seedPoint": {
+                "x": 88,
+                "y": 69
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "friends-rallycar-friend-r5",
+              "seedPoint": {
+                "x": 52,
+                "y": 169
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "friends-rallycar-friend-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-friends-taxi-friend",
+          "name": {
+            "en": "Taxi Friend",
+            "sv": "Taxi Friend",
+            "ko": "Taxi Friend"
+          },
+          "image": {
+            "file": "taxi-friend.heic",
+            "sha256": "bf20001c9bc12635803eac685980cb70cd208840a66a5bd5d04265eefceb573f"
+          },
+          "mask": {
+            "file": "taxi-friend-wall.png",
+            "sha256": "1ec2a0dcb6be245f036be4235bbec045a3721227f78886b364afac05b4c671cf"
+          },
+          "regions": [
+            {
+              "id": "friends-taxi-friend-r0",
+              "seedPoint": {
+                "x": 147,
+                "y": 109
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "friends-taxi-friend-r1",
+              "seedPoint": {
+                "x": 203,
+                "y": 224
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "friends-taxi-friend-r2",
+              "seedPoint": {
+                "x": 144,
+                "y": 43
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "friends-taxi-friend-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-friends-tram-friend",
+          "name": {
+            "en": "Tram Friend",
+            "sv": "Tram Friend",
+            "ko": "Tram Friend"
+          },
+          "image": {
+            "file": "tram-friend.heic",
+            "sha256": "c25719b399f21fddf3a9f3f941faea7cd88faa92e4ed17b52754be770cc873d7"
+          },
+          "mask": {
+            "file": "tram-friend-wall.png",
+            "sha256": "e570e8ac9add851339a8d6e09499298b67d4844c7e46e3f1d4d9dfc78ec3ef5b"
+          },
+          "regions": [
+            {
+              "id": "friends-tram-friend-r0",
+              "seedPoint": {
+                "x": 124,
+                "y": 192
+              },
+              "name": {
+                "en": "Area 1",
+                "sv": "Del 1",
+                "ko": "부분 1"
+              }
+            },
+            {
+              "id": "friends-tram-friend-r1",
+              "seedPoint": {
+                "x": 127,
+                "y": 221
+              },
+              "name": {
+                "en": "Area 2",
+                "sv": "Del 2",
+                "ko": "부분 2"
+              }
+            },
+            {
+              "id": "friends-tram-friend-r2",
+              "seedPoint": {
+                "x": 164,
+                "y": 132
+              },
+              "name": {
+                "en": "Area 3",
+                "sv": "Del 3",
+                "ko": "부분 3"
+              }
+            },
+            {
+              "id": "friends-tram-friend-r3",
+              "seedPoint": {
+                "x": 139,
+                "y": 56
+              },
+              "name": {
+                "en": "Area 4",
+                "sv": "Del 4",
+                "ko": "부분 4"
+              }
+            },
+            {
+              "id": "friends-tram-friend-r4",
+              "seedPoint": {
+                "x": 116,
+                "y": 112
+              },
+              "name": {
+                "en": "Area 5",
+                "sv": "Del 5",
+                "ko": "부분 5"
+              }
+            },
+            {
+              "id": "friends-tram-friend-r5",
+              "seedPoint": {
+                "x": 205,
+                "y": 115
+              },
+              "name": {
+                "en": "Area 6",
+                "sv": "Del 6",
+                "ko": "부분 6"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "friends-tram-friend-r0",
             "colorId": "red"
           }
         }
