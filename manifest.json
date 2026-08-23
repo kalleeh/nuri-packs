@@ -8,7 +8,7 @@
         "sv": "Fordon",
         "ko": "탈것"
       },
-      "version": 2,
+      "version": 3,
       "pages": [
         {
           "id": "pack-vehicles-airplane",
@@ -33,9 +33,9 @@
                 "y": 142
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kropp",
+                "ko": "동체",
+                "en": "Body"
               }
             },
             {
@@ -45,9 +45,9 @@
                 "y": 179
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Vinge",
+                "ko": "날개",
+                "en": "Wing"
               }
             },
             {
@@ -57,9 +57,9 @@
                 "y": 111
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Stjärtfena",
+                "ko": "꼬리 날개",
+                "en": "Tail fin"
               }
             },
             {
@@ -69,9 +69,9 @@
                 "y": 101
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Bakvinge",
+                "ko": "뒷날개",
+                "en": "Tail wing"
               }
             },
             {
@@ -81,9 +81,9 @@
                 "y": 193
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Vingspets",
+                "ko": "날개 끝",
+                "en": "Wing tip"
               }
             },
             {
@@ -93,9 +93,9 @@
                 "y": 125
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Vingkant",
+                "ko": "날개 가장자리",
+                "en": "Wing edge"
               }
             }
           ],
@@ -127,9 +127,9 @@
                 "y": 163
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Segel",
+                "ko": "돛",
+                "en": "Sail"
               }
             },
             {
@@ -139,9 +139,9 @@
                 "y": 171
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Framsegel",
+                "ko": "앞 돛",
+                "en": "Front sail"
               }
             },
             {
@@ -151,9 +151,9 @@
                 "y": 231
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Skrov",
+                "ko": "선체",
+                "en": "Hull"
               }
             },
             {
@@ -163,9 +163,9 @@
                 "y": 262
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Köl",
+                "ko": "용골",
+                "en": "Keel"
               }
             },
             {
@@ -175,9 +175,9 @@
                 "y": 204
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Däck",
+                "ko": "갑판",
+                "en": "Deck"
               }
             }
           ],
@@ -209,9 +209,9 @@
                 "y": 188
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Sida",
+                "ko": "측면",
+                "en": "Side"
               }
             },
             {
@@ -221,9 +221,9 @@
                 "y": 135
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -233,9 +233,9 @@
                 "y": 188
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Front",
+                "ko": "앞면",
+                "en": "Front"
               }
             },
             {
@@ -245,9 +245,9 @@
                 "y": 80
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -257,9 +257,9 @@
                 "y": 88
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Taklucka",
+                "ko": "천장 창",
+                "en": "Roof hatch"
               }
             },
             {
@@ -269,9 +269,9 @@
                 "y": 108
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             }
           ],
@@ -303,9 +303,9 @@
                 "y": 180
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Motorhuv",
+                "ko": "보닛",
+                "en": "Hood"
               }
             },
             {
@@ -315,9 +315,9 @@
                 "y": 149
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Framskärm",
+                "ko": "앞 펜더",
+                "en": "Front fender"
               }
             },
             {
@@ -327,9 +327,9 @@
                 "y": 100
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -339,9 +339,9 @@
                 "y": 166
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Bakskärm",
+                "ko": "뒷 펜더",
+                "en": "Rear fender"
               }
             },
             {
@@ -351,9 +351,9 @@
                 "y": 100
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Bakre fönster",
+                "ko": "뒷 창문",
+                "en": "Rear window"
               }
             },
             {
@@ -363,9 +363,9 @@
                 "y": 212
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Tröskel",
+                "ko": "문턱",
+                "en": "Side sill"
               }
             }
           ],
@@ -397,9 +397,9 @@
                 "y": 55
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Rök",
+                "ko": "연기",
+                "en": "Smoke"
               }
             },
             {
@@ -409,9 +409,9 @@
                 "y": 188
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Sida",
+                "ko": "측면",
+                "en": "Side"
               }
             },
             {
@@ -421,9 +421,9 @@
                 "y": 152
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -433,9 +433,9 @@
                 "y": 177
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Panna",
+                "ko": "보일러",
+                "en": "Boiler"
               }
             },
             {
@@ -445,9 +445,9 @@
                 "y": 172
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Hytt",
+                "ko": "운전실",
+                "en": "Cab"
               }
             },
             {
@@ -457,9 +457,9 @@
                 "y": 182
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Framsida",
+                "ko": "앞면",
+                "en": "Front"
               }
             }
           ],
@@ -491,9 +491,9 @@
                 "y": 145
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Lastutrymme",
+                "ko": "화물칸",
+                "en": "Cargo box"
               }
             },
             {
@@ -503,9 +503,9 @@
                 "y": 66
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -515,9 +515,9 @@
                 "y": 179
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -527,9 +527,9 @@
                 "y": 179
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Front",
+                "ko": "앞면",
+                "en": "Front"
               }
             },
             {
@@ -539,9 +539,9 @@
                 "y": 124
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -551,9 +551,9 @@
                 "y": 230
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Fotsteg",
+                "ko": "발판",
+                "en": "Step"
               }
             }
           ],
@@ -571,7 +571,7 @@
         "sv": "Djur",
         "ko": "동물"
       },
-      "version": 2,
+      "version": 3,
       "pages": [
         {
           "id": "pack-animals-bear",
@@ -596,9 +596,9 @@
                 "y": 65
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Huvud",
+                "ko": "머리",
+                "en": "Head"
               }
             },
             {
@@ -608,9 +608,9 @@
                 "y": 210
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Mage",
+                "ko": "배",
+                "en": "Tummy"
               }
             },
             {
@@ -620,9 +620,9 @@
                 "y": 251
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Fot",
+                "ko": "발",
+                "en": "Foot"
               }
             },
             {
@@ -632,9 +632,9 @@
                 "y": 247
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Andra foten",
+                "ko": "다른 발",
+                "en": "Other foot"
               }
             },
             {
@@ -644,9 +644,9 @@
                 "y": 122
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Nos",
+                "ko": "코",
+                "en": "Snout"
               }
             },
             {
@@ -656,9 +656,9 @@
                 "y": 186
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Arm",
+                "ko": "팔",
+                "en": "Arm"
               }
             }
           ],
@@ -690,9 +690,9 @@
                 "y": 124
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kropp",
+                "ko": "몸통",
+                "en": "Body"
               }
             },
             {
@@ -702,9 +702,9 @@
                 "y": 69
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Öra",
+                "ko": "귀",
+                "en": "Ear"
               }
             },
             {
@@ -714,9 +714,9 @@
                 "y": 227
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Ben",
+                "ko": "다리",
+                "en": "Leg"
               }
             }
           ],
@@ -748,9 +748,9 @@
                 "y": 199
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kropp",
+                "ko": "몸통",
+                "en": "Body"
               }
             },
             {
@@ -760,9 +760,9 @@
                 "y": 52
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Huvud",
+                "ko": "머리",
+                "en": "Head"
               }
             },
             {
@@ -772,9 +772,9 @@
                 "y": 192
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Vinge",
+                "ko": "날개",
+                "en": "Wing"
               }
             }
           ],
@@ -806,9 +806,9 @@
                 "y": 149
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kropp",
+                "ko": "몸통",
+                "en": "Body"
               }
             }
           ],
@@ -840,9 +840,9 @@
                 "y": 115
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Ansikte",
+                "ko": "얼굴",
+                "en": "Face"
               }
             },
             {
@@ -852,9 +852,9 @@
                 "y": 60
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Man",
+                "ko": "갈기",
+                "en": "Mane"
               }
             },
             {
@@ -864,9 +864,9 @@
                 "y": 193
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Svans",
+                "ko": "꼬리",
+                "en": "Tail"
               }
             },
             {
@@ -876,9 +876,9 @@
                 "y": 226
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Mage",
+                "ko": "배",
+                "en": "Tummy"
               }
             },
             {
@@ -888,9 +888,9 @@
                 "y": 141
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Ben",
+                "ko": "다리",
+                "en": "Leg"
               }
             },
             {
@@ -900,9 +900,9 @@
                 "y": 155
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Andra benet",
+                "ko": "다른 다리",
+                "en": "Other leg"
               }
             }
           ],
@@ -934,9 +934,9 @@
                 "y": 135
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Huvud",
+                "ko": "머리",
+                "en": "Head"
               }
             },
             {
@@ -946,9 +946,9 @@
                 "y": 227
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Mage",
+                "ko": "배",
+                "en": "Tummy"
               }
             },
             {
@@ -958,9 +958,9 @@
                 "y": 57
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Öra",
+                "ko": "귀",
+                "en": "Ear"
               }
             },
             {
@@ -970,9 +970,9 @@
                 "y": 56
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Andra öra",
+                "ko": "다른 귀",
+                "en": "Other ear"
               }
             },
             {
@@ -982,9 +982,9 @@
                 "y": 250
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Fot",
+                "ko": "발",
+                "en": "Foot"
               }
             },
             {
@@ -994,9 +994,9 @@
                 "y": 251
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Andra foten",
+                "ko": "다른 발",
+                "en": "Other foot"
               }
             }
           ],
@@ -1014,7 +1014,7 @@
         "sv": "Bilar",
         "ko": "자동차"
       },
-      "version": 2,
+      "version": 3,
       "pages": [
         {
           "id": "pack-cars-classiccar",
@@ -1039,9 +1039,9 @@
                 "y": 217
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
               }
             },
             {
@@ -1051,9 +1051,9 @@
                 "y": 214
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -1063,9 +1063,9 @@
                 "y": 124
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -1075,9 +1075,9 @@
                 "y": 186
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Framdörr",
+                "ko": "앞 문",
+                "en": "Front door"
               }
             },
             {
@@ -1087,9 +1087,9 @@
                 "y": 246
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Tröskel",
+                "ko": "문턱",
+                "en": "Side sill"
               }
             },
             {
@@ -1099,9 +1099,9 @@
                 "y": 156
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Bakre fönster",
+                "ko": "뒷 창문",
+                "en": "Rear window"
               }
             }
           ],
@@ -1133,9 +1133,9 @@
                 "y": 190
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
               }
             },
             {
@@ -1145,9 +1145,9 @@
                 "y": 196
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -1157,9 +1157,9 @@
                 "y": 149
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Huv",
+                "ko": "후드",
+                "en": "Hood"
               }
             },
             {
@@ -1169,9 +1169,9 @@
                 "y": 229
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Bakskärm",
+                "ko": "뒷 펜더",
+                "en": "Rear fender"
               }
             },
             {
@@ -1181,9 +1181,9 @@
                 "y": 231
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Strålkastare",
+                "ko": "전조등",
+                "en": "Headlight"
               }
             },
             {
@@ -1193,9 +1193,9 @@
                 "y": 211
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Baklykta",
+                "ko": "후미등",
+                "en": "Tail light"
               }
             }
           ],
@@ -1227,9 +1227,9 @@
                 "y": 165
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Hytt",
+                "ko": "운전실",
+                "en": "Cab"
               }
             },
             {
@@ -1239,9 +1239,9 @@
                 "y": 153
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Flak",
+                "ko": "적재함",
+                "en": "Bed"
               }
             },
             {
@@ -1251,9 +1251,9 @@
                 "y": 213
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Underrede",
+                "ko": "하부",
+                "en": "Underframe"
               }
             },
             {
@@ -1263,9 +1263,9 @@
                 "y": 114
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -1275,9 +1275,9 @@
                 "y": 190
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Bakhjul",
+                "ko": "뒷바퀴",
+                "en": "Rear wheel"
               }
             },
             {
@@ -1287,9 +1287,9 @@
                 "y": 189
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Framhjul",
+                "ko": "앞바퀴",
+                "en": "Front wheel"
               }
             }
           ],
@@ -1321,9 +1321,9 @@
                 "y": 186
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Sida",
+                "ko": "측면",
+                "en": "Side"
               }
             },
             {
@@ -1333,9 +1333,9 @@
                 "y": 115
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -1345,9 +1345,9 @@
                 "y": 180
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -1357,9 +1357,9 @@
                 "y": 98
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Baklucka",
+                "ko": "뒷문",
+                "en": "Back"
               }
             },
             {
@@ -1369,9 +1369,9 @@
                 "y": 117
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Bakre fönster",
+                "ko": "뒷 창문",
+                "en": "Rear window"
               }
             },
             {
@@ -1381,9 +1381,9 @@
                 "y": 185
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Hjul",
+                "ko": "바퀴",
+                "en": "Wheel"
               }
             }
           ],
@@ -1415,9 +1415,9 @@
                 "y": 172
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
               }
             },
             {
@@ -1427,9 +1427,9 @@
                 "y": 144
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -1439,9 +1439,9 @@
                 "y": 122
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -1451,9 +1451,9 @@
                 "y": 133
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Sidopanel",
+                "ko": "측면 패널",
+                "en": "Side panel"
               }
             },
             {
@@ -1463,9 +1463,9 @@
                 "y": 186
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Tröskel",
+                "ko": "문턱",
+                "en": "Side sill"
               }
             },
             {
@@ -1475,9 +1475,9 @@
                 "y": 175
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Strålkastare",
+                "ko": "전조등",
+                "en": "Headlight"
               }
             }
           ],
@@ -1509,9 +1509,9 @@
                 "y": 180
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
               }
             },
             {
@@ -1521,9 +1521,9 @@
                 "y": 136
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -1533,9 +1533,9 @@
                 "y": 169
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Bakskärm",
+                "ko": "뒷 펜더",
+                "en": "Rear fender"
               }
             },
             {
@@ -1545,9 +1545,9 @@
                 "y": 137
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -1557,9 +1557,9 @@
                 "y": 176
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Framskärm",
+                "ko": "앞 펜더",
+                "en": "Front fender"
               }
             },
             {
@@ -1569,9 +1569,9 @@
                 "y": 120
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Bakruta",
+                "ko": "뒷 유리",
+                "en": "Rear glass"
               }
             }
           ],
@@ -1603,9 +1603,9 @@
                 "y": 167
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -1615,9 +1615,9 @@
                 "y": 238
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Hjul",
+                "ko": "바퀴",
+                "en": "Wheel"
               }
             },
             {
@@ -1627,9 +1627,9 @@
                 "y": 185
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Framhjul",
+                "ko": "앞바퀴",
+                "en": "Front wheel"
               }
             },
             {
@@ -1639,9 +1639,9 @@
                 "y": 166
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Sida",
+                "ko": "측면",
+                "en": "Side"
               }
             },
             {
@@ -1651,9 +1651,9 @@
                 "y": 230
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Tröskel",
+                "ko": "문턱",
+                "en": "Side sill"
               }
             },
             {
@@ -1663,9 +1663,9 @@
                 "y": 117
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             }
           ],
@@ -1697,9 +1697,9 @@
                 "y": 183
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
               }
             },
             {
@@ -1709,9 +1709,9 @@
                 "y": 117
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -1721,9 +1721,9 @@
                 "y": 99
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -1733,9 +1733,9 @@
                 "y": 111
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Stolpe",
+                "ko": "기둥",
+                "en": "Pillar"
               }
             },
             {
@@ -1745,9 +1745,9 @@
                 "y": 185
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -1757,9 +1757,9 @@
                 "y": 125
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Bakre fönster",
+                "ko": "뒷 창문",
+                "en": "Rear window"
               }
             }
           ],
@@ -1777,7 +1777,7 @@
         "sv": "Tåg",
         "ko": "기차"
       },
-      "version": 2,
+      "version": 3,
       "pages": [
         {
           "id": "pack-trains-bullettrain",
@@ -1802,9 +1802,9 @@
                 "y": 173
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Tåg",
+                "ko": "기차",
+                "en": "Train"
               }
             }
           ],
@@ -1836,9 +1836,9 @@
                 "y": 156
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Hytt",
+                "ko": "운전실",
+                "en": "Cab"
               }
             },
             {
@@ -1848,9 +1848,9 @@
                 "y": 203
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Underrede",
+                "ko": "하부",
+                "en": "Underframe"
               }
             },
             {
@@ -1860,9 +1860,9 @@
                 "y": 62
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -1872,9 +1872,9 @@
                 "y": 151
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Front",
+                "ko": "앞면",
+                "en": "Front"
               }
             },
             {
@@ -1884,9 +1884,9 @@
                 "y": 111
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -1896,9 +1896,9 @@
                 "y": 105
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Andra fönstret",
+                "ko": "다른 창문",
+                "en": "Other window"
               }
             }
           ],
@@ -1930,9 +1930,9 @@
                 "y": 199
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Panna",
+                "ko": "보일러",
+                "en": "Boiler"
               }
             },
             {
@@ -1942,9 +1942,9 @@
                 "y": 53
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Rök",
+                "ko": "연기",
+                "en": "Smoke"
               }
             },
             {
@@ -1954,9 +1954,9 @@
                 "y": 191
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Framsida",
+                "ko": "앞면",
+                "en": "Front"
               }
             },
             {
@@ -1966,9 +1966,9 @@
                 "y": 162
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Ovansida",
+                "ko": "윗면",
+                "en": "Top"
               }
             },
             {
@@ -1978,9 +1978,9 @@
                 "y": 233
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Underrede",
+                "ko": "하부",
+                "en": "Underframe"
               }
             },
             {
@@ -1990,9 +1990,9 @@
                 "y": 128
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Hytt",
+                "ko": "운전실",
+                "en": "Cab"
               }
             }
           ],
@@ -2024,9 +2024,9 @@
                 "y": 165
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Front",
+                "ko": "앞면",
+                "en": "Front"
               }
             },
             {
@@ -2036,9 +2036,9 @@
                 "y": 162
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Sida",
+                "ko": "측면",
+                "en": "Side"
               }
             },
             {
@@ -2048,9 +2048,9 @@
                 "y": 189
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Nedre sida",
+                "ko": "아래 측면",
+                "en": "Lower side"
               }
             },
             {
@@ -2060,9 +2060,9 @@
                 "y": 166
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -2072,9 +2072,9 @@
                 "y": 103
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -2084,9 +2084,9 @@
                 "y": 117
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Framruta",
+                "ko": "앞 유리",
+                "en": "Windshield"
               }
             }
           ],
@@ -2118,9 +2118,9 @@
                 "y": 132
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -2130,9 +2130,9 @@
                 "y": 83
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -2142,9 +2142,9 @@
                 "y": 115
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Panel",
+                "ko": "판자",
+                "en": "Panel"
               }
             },
             {
@@ -2154,9 +2154,9 @@
                 "y": 119
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Andra panelen",
+                "ko": "다른 판자",
+                "en": "Other panel"
               }
             },
             {
@@ -2166,9 +2166,9 @@
                 "y": 144
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Tredje panelen",
+                "ko": "세 번째 판자",
+                "en": "Third panel"
               }
             },
             {
@@ -2178,9 +2178,9 @@
                 "y": 112
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Fjärde panelen",
+                "ko": "네 번째 판자",
+                "en": "Fourth panel"
               }
             }
           ],
@@ -2212,9 +2212,9 @@
                 "y": 177
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Front",
+                "ko": "앞면",
+                "en": "Front"
               }
             },
             {
@@ -2224,9 +2224,9 @@
                 "y": 191
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Sida",
+                "ko": "측면",
+                "en": "Side"
               }
             },
             {
@@ -2236,9 +2236,9 @@
                 "y": 168
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Nedre front",
+                "ko": "아래 앞면",
+                "en": "Lower front"
               }
             },
             {
@@ -2248,9 +2248,9 @@
                 "y": 89
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -2260,9 +2260,9 @@
                 "y": 93
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -2272,9 +2272,9 @@
                 "y": 109
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Sidofönster",
+                "ko": "측면 창문",
+                "en": "Side window"
               }
             }
           ],
@@ -2292,7 +2292,7 @@
         "sv": "Arbetsfordon",
         "ko": "작업 트럭"
       },
-      "version": 2,
+      "version": 3,
       "pages": [
         {
           "id": "pack-worktrucks-cementmixer",
@@ -2317,9 +2317,9 @@
                 "y": 114
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Trumma",
+                "ko": "드럼",
+                "en": "Drum"
               }
             },
             {
@@ -2329,9 +2329,9 @@
                 "y": 87
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Trumrand",
+                "ko": "드럼 띠",
+                "en": "Drum band"
               }
             },
             {
@@ -2341,9 +2341,9 @@
                 "y": 142
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -2353,9 +2353,9 @@
                 "y": 197
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Front",
+                "ko": "앞면",
+                "en": "Front"
               }
             },
             {
@@ -2365,9 +2365,9 @@
                 "y": 162
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Ram",
+                "ko": "프레임",
+                "en": "Frame"
               }
             },
             {
@@ -2377,9 +2377,9 @@
                 "y": 201
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Fotsteg",
+                "ko": "발판",
+                "en": "Step"
               }
             }
           ],
@@ -2411,9 +2411,9 @@
                 "y": 151
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kranarm",
+                "ko": "크레인 팔",
+                "en": "Crane arm"
               }
             },
             {
@@ -2423,9 +2423,9 @@
                 "y": 128
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Nedre arm",
+                "ko": "아래 팔",
+                "en": "Lower arm"
               }
             },
             {
@@ -2435,9 +2435,9 @@
                 "y": 210
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -2447,9 +2447,9 @@
                 "y": 57
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Armled",
+                "ko": "팔 관절",
+                "en": "Arm joint"
               }
             },
             {
@@ -2459,9 +2459,9 @@
                 "y": 149
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Kran",
+                "ko": "크레인",
+                "en": "Crane"
               }
             },
             {
@@ -2471,9 +2471,9 @@
                 "y": 209
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Hytt",
+                "ko": "운전실",
+                "en": "Cab"
               }
             }
           ],
@@ -2505,9 +2505,9 @@
                 "y": 162
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Hytt",
+                "ko": "운전실",
+                "en": "Cab"
               }
             },
             {
@@ -2517,9 +2517,9 @@
                 "y": 253
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Underrede",
+                "ko": "하부",
+                "en": "Underframe"
               }
             },
             {
@@ -2529,9 +2529,9 @@
                 "y": 71
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Flakkant",
+                "ko": "적재함 가장자리",
+                "en": "Bed edge"
               }
             },
             {
@@ -2541,9 +2541,9 @@
                 "y": 116
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -2553,9 +2553,9 @@
                 "y": 96
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Bakre dörr",
+                "ko": "뒷 문",
+                "en": "Rear door"
               }
             },
             {
@@ -2565,9 +2565,9 @@
                 "y": 120
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Flak",
+                "ko": "적재함",
+                "en": "Bed"
               }
             }
           ],
@@ -2599,9 +2599,9 @@
                 "y": 149
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Arm",
+                "ko": "팔",
+                "en": "Arm"
               }
             },
             {
@@ -2611,9 +2611,9 @@
                 "y": 114
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Övre arm",
+                "ko": "위 팔",
+                "en": "Upper arm"
               }
             },
             {
@@ -2623,9 +2623,9 @@
                 "y": 231
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Skopa",
+                "ko": "버킷",
+                "en": "Bucket"
               }
             },
             {
@@ -2635,9 +2635,9 @@
                 "y": 229
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Band",
+                "ko": "무한궤도",
+                "en": "Track"
               }
             },
             {
@@ -2647,9 +2647,9 @@
                 "y": 174
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Hytt",
+                "ko": "운전실",
+                "en": "Cab"
               }
             },
             {
@@ -2659,9 +2659,9 @@
                 "y": 179
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Motorhus",
+                "ko": "엔진실",
+                "en": "Engine box"
               }
             }
           ],
@@ -2693,9 +2693,9 @@
                 "y": 173
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Front",
+                "ko": "앞면",
+                "en": "Front"
               }
             },
             {
@@ -2705,9 +2705,9 @@
                 "y": 148
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Lucka",
+                "ko": "보관함",
+                "en": "Locker"
               }
             },
             {
@@ -2717,9 +2717,9 @@
                 "y": 133
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -2729,9 +2729,9 @@
                 "y": 247
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Fotsteg",
+                "ko": "발판",
+                "en": "Step"
               }
             },
             {
@@ -2741,9 +2741,9 @@
                 "y": 185
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -2753,9 +2753,9 @@
                 "y": 108
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             }
           ],
@@ -2787,9 +2787,9 @@
                 "y": 146
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Behållare",
+                "ko": "적재함",
+                "en": "Container"
               }
             },
             {
@@ -2799,9 +2799,9 @@
                 "y": 186
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -2811,9 +2811,9 @@
                 "y": 209
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Lyftarm",
+                "ko": "리프트 팔",
+                "en": "Lift arm"
               }
             },
             {
@@ -2823,9 +2823,9 @@
                 "y": 96
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Bakstolpe",
+                "ko": "뒷 기둥",
+                "en": "Rear pillar"
               }
             },
             {
@@ -2835,9 +2835,9 @@
                 "y": 240
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Underrede",
+                "ko": "하부",
+                "en": "Underframe"
               }
             },
             {
@@ -2847,9 +2847,9 @@
                 "y": 144
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Baksida",
+                "ko": "뒷면",
+                "en": "Back"
               }
             }
           ],
@@ -2867,7 +2867,7 @@
         "sv": "Rymden",
         "ko": "우주"
       },
-      "version": 2,
+      "version": 3,
       "pages": [
         {
           "id": "pack-space-helicopter",
@@ -2892,9 +2892,9 @@
                 "y": 69
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Rotorblad",
+                "ko": "로터 날개",
+                "en": "Rotor blade"
               }
             },
             {
@@ -2904,9 +2904,9 @@
                 "y": 121
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Kropp",
+                "ko": "몸통",
+                "en": "Body"
               }
             },
             {
@@ -2916,9 +2916,9 @@
                 "y": 154
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Nos",
+                "ko": "기수",
+                "en": "Nose"
               }
             },
             {
@@ -2928,9 +2928,9 @@
                 "y": 101
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Stjärtbom",
+                "ko": "꼬리 붐",
+                "en": "Tail boom"
               }
             },
             {
@@ -2940,9 +2940,9 @@
                 "y": 207
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Undersida",
+                "ko": "아래쪽",
+                "en": "Underside"
               }
             },
             {
@@ -2952,9 +2952,9 @@
                 "y": 170
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             }
           ],
@@ -2986,9 +2986,9 @@
                 "y": 69
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Rand",
+                "ko": "줄무늬",
+                "en": "Stripe"
               }
             },
             {
@@ -2998,9 +2998,9 @@
                 "y": 122
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Mittrand",
+                "ko": "가운데 줄무늬",
+                "en": "Middle stripe"
               }
             },
             {
@@ -3010,9 +3010,9 @@
                 "y": 69
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Övre rand",
+                "ko": "위 줄무늬",
+                "en": "Upper stripe"
               }
             },
             {
@@ -3022,9 +3022,9 @@
                 "y": 71
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Andra randen",
+                "ko": "다른 줄무늬",
+                "en": "Second stripe"
               }
             },
             {
@@ -3034,9 +3034,9 @@
                 "y": 83
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Sidorand",
+                "ko": "측면 줄무늬",
+                "en": "Side stripe"
               }
             },
             {
@@ -3046,9 +3046,9 @@
                 "y": 87
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Tredje randen",
+                "ko": "세 번째 줄무늬",
+                "en": "Third stripe"
               }
             }
           ],
@@ -3080,9 +3080,9 @@
                 "y": 108
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Planet",
+                "ko": "행성",
+                "en": "Planet"
               }
             },
             {
@@ -3092,9 +3092,9 @@
                 "y": 145
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Ring",
+                "ko": "고리",
+                "en": "Ring"
               }
             },
             {
@@ -3104,9 +3104,9 @@
                 "y": 223
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Nedre ring",
+                "ko": "아래 고리",
+                "en": "Lower ring"
               }
             }
           ],
@@ -3138,9 +3138,9 @@
                 "y": 157
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Raket",
+                "ko": "로켓",
+                "en": "Rocket"
               }
             },
             {
@@ -3150,9 +3150,9 @@
                 "y": 275
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Moln",
+                "ko": "구름",
+                "en": "Cloud"
               }
             },
             {
@@ -3162,9 +3162,9 @@
                 "y": 251
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Låga",
+                "ko": "불꽃",
+                "en": "Flame"
               }
             },
             {
@@ -3174,9 +3174,9 @@
                 "y": 273
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Andra molnet",
+                "ko": "다른 구름",
+                "en": "Second cloud"
               }
             },
             {
@@ -3186,9 +3186,9 @@
                 "y": 257
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Tredje molnet",
+                "ko": "세 번째 구름",
+                "en": "Third cloud"
               }
             },
             {
@@ -3198,9 +3198,9 @@
                 "y": 45
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Nos",
+                "ko": "앞부분",
+                "en": "Nose"
               }
             }
           ],
@@ -3232,9 +3232,9 @@
                 "y": 206
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Solpanel",
+                "ko": "태양 전지판",
+                "en": "Solar panel"
               }
             },
             {
@@ -3244,9 +3244,9 @@
                 "y": 202
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Andra panelen",
+                "ko": "다른 전지판",
+                "en": "Other panel"
               }
             },
             {
@@ -3256,9 +3256,9 @@
                 "y": 193
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Tredje panelen",
+                "ko": "세 번째 전지판",
+                "en": "Third panel"
               }
             },
             {
@@ -3268,9 +3268,9 @@
                 "y": 129
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Fjärde panelen",
+                "ko": "네 번째 전지판",
+                "en": "Fourth panel"
               }
             },
             {
@@ -3280,9 +3280,9 @@
                 "y": 178
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Nos",
+                "ko": "앞부분",
+                "en": "Nose"
               }
             },
             {
@@ -3292,9 +3292,9 @@
                 "y": 155
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Kropp",
+                "ko": "몸통",
+                "en": "Body"
               }
             }
           ],
@@ -3326,9 +3326,9 @@
                 "y": 178
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Farkost",
+                "ko": "우주선",
+                "en": "Saucer"
               }
             },
             {
@@ -3338,9 +3338,9 @@
                 "y": 125
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Kupol",
+                "ko": "돔",
+                "en": "Dome"
               }
             },
             {
@@ -3350,9 +3350,9 @@
                 "y": 170
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Kant",
+                "ko": "가장자리",
+                "en": "Rim"
               }
             },
             {
@@ -3362,9 +3362,9 @@
                 "y": 206
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Undersida",
+                "ko": "아래쪽",
+                "en": "Underside"
               }
             }
           ],
@@ -3382,7 +3382,7 @@
         "sv": "Båtar",
         "ko": "배"
       },
-      "version": 2,
+      "version": 3,
       "pages": [
         {
           "id": "pack-boats-canoe",
@@ -3407,9 +3407,9 @@
                 "y": 177
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Skrov",
+                "ko": "선체",
+                "en": "Hull"
               }
             },
             {
@@ -3419,9 +3419,9 @@
                 "y": 146
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Insida",
+                "ko": "안쪽",
+                "en": "Inside"
               }
             },
             {
@@ -3431,9 +3431,9 @@
                 "y": 121
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Säte",
+                "ko": "좌석",
+                "en": "Seat"
               }
             },
             {
@@ -3443,9 +3443,9 @@
                 "y": 185
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Paddel",
+                "ko": "노",
+                "en": "Paddle"
               }
             }
           ],
@@ -3477,9 +3477,9 @@
                 "y": 174
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Skrov",
+                "ko": "선체",
+                "en": "Hull"
               }
             },
             {
@@ -3489,9 +3489,9 @@
                 "y": 138
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Övre däck",
+                "ko": "상부 갑판",
+                "en": "Upper deck"
               }
             },
             {
@@ -3501,9 +3501,9 @@
                 "y": 139
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Mellandäck",
+                "ko": "중간 갑판",
+                "en": "Middle deck"
               }
             }
           ],
@@ -3535,9 +3535,9 @@
                 "y": 148
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Torn",
+                "ko": "탑",
+                "en": "Tower"
               }
             },
             {
@@ -3547,9 +3547,9 @@
                 "y": 244
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Klippa",
+                "ko": "바위",
+                "en": "Rock"
               }
             },
             {
@@ -3559,9 +3559,9 @@
                 "y": 243
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Andra klippan",
+                "ko": "다른 바위",
+                "en": "Other rock"
               }
             },
             {
@@ -3571,9 +3571,9 @@
                 "y": 232
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Liten klippa",
+                "ko": "작은 바위",
+                "en": "Small rock"
               }
             }
           ],
@@ -3605,9 +3605,9 @@
                 "y": 171
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Skrov",
+                "ko": "선체",
+                "en": "Hull"
               }
             },
             {
@@ -3617,9 +3617,9 @@
                 "y": 88
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Säte",
+                "ko": "좌석",
+                "en": "Seat"
               }
             },
             {
@@ -3629,9 +3629,9 @@
                 "y": 139
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Rand",
+                "ko": "줄무늬",
+                "en": "Stripe"
               }
             },
             {
@@ -3641,9 +3641,9 @@
                 "y": 63
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -3653,9 +3653,9 @@
                 "y": 110
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Instrumentbräda",
+                "ko": "계기판",
+                "en": "Dashboard"
               }
             },
             {
@@ -3665,9 +3665,9 @@
                 "y": 94
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Vindruta",
+                "ko": "앞 유리",
+                "en": "Windshield"
               }
             }
           ],
@@ -3699,9 +3699,9 @@
                 "y": 169
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Skrov",
+                "ko": "선체",
+                "en": "Hull"
               }
             },
             {
@@ -3711,9 +3711,9 @@
                 "y": 163
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Nos",
+                "ko": "앞부분",
+                "en": "Nose"
               }
             },
             {
@@ -3723,9 +3723,9 @@
                 "y": 206
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Undersida",
+                "ko": "아래쪽",
+                "en": "Underside"
               }
             },
             {
@@ -3735,9 +3735,9 @@
                 "y": 99
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Torn",
+                "ko": "타워",
+                "en": "Tower"
               }
             },
             {
@@ -3747,9 +3747,9 @@
                 "y": 156
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Bakre skrov",
+                "ko": "뒷 선체",
+                "en": "Rear hull"
               }
             },
             {
@@ -3759,9 +3759,9 @@
                 "y": 156
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Propeller",
+                "ko": "프로펠러",
+                "en": "Propeller"
               }
             }
           ],
@@ -3793,9 +3793,9 @@
                 "y": 203
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Skrov",
+                "ko": "선체",
+                "en": "Hull"
               }
             },
             {
@@ -3805,9 +3805,9 @@
                 "y": 252
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Undersida",
+                "ko": "아래쪽",
+                "en": "Underside"
               }
             },
             {
@@ -3817,9 +3817,9 @@
                 "y": 151
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Hytt",
+                "ko": "조타실",
+                "en": "Cabin"
               }
             },
             {
@@ -3829,9 +3829,9 @@
                 "y": 128
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Räcke",
+                "ko": "난간",
+                "en": "Railing"
               }
             },
             {
@@ -3841,9 +3841,9 @@
                 "y": 84
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -3853,9 +3853,9 @@
                 "y": 154
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             }
           ],
@@ -3873,7 +3873,7 @@
         "sv": "Glada Vänner",
         "ko": "친구들"
       },
-      "version": 1,
+      "version": 2,
       "pages": [
         {
           "id": "pack-friends-mushroom-friend",
@@ -3898,9 +3898,9 @@
                 "y": 48
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Hatt",
+                "ko": "모자",
+                "en": "Cap"
               }
             },
             {
@@ -3910,9 +3910,9 @@
                 "y": 204
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Fot",
+                "ko": "줄기",
+                "en": "Stalk"
               }
             }
           ],
@@ -3944,9 +3944,9 @@
                 "y": 159
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Front",
+                "ko": "앞면",
+                "en": "Front"
               }
             },
             {
@@ -3956,9 +3956,9 @@
                 "y": 91
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Vindruta",
+                "ko": "앞 유리",
+                "en": "Windshield"
               }
             },
             {
@@ -3968,9 +3968,9 @@
                 "y": 96
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Sidofönster",
+                "ko": "측면 창문",
+                "en": "Side window"
               }
             },
             {
@@ -3980,9 +3980,9 @@
                 "y": 221
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Stötfångare",
+                "ko": "범퍼",
+                "en": "Bumper"
               }
             },
             {
@@ -3992,9 +3992,9 @@
                 "y": 69
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -4004,9 +4004,9 @@
                 "y": 169
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Skärm",
+                "ko": "펜더",
+                "en": "Fender"
               }
             }
           ],
@@ -4038,9 +4038,9 @@
                 "y": 109
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
               }
             },
             {
@@ -4050,9 +4050,9 @@
                 "y": 224
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Stötfångare",
+                "ko": "범퍼",
+                "en": "Bumper"
               }
             },
             {
@@ -4062,9 +4062,9 @@
                 "y": 43
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Taklykta",
+                "ko": "택시 등",
+                "en": "Taxi light"
               }
             }
           ],
@@ -4096,9 +4096,9 @@
                 "y": 192
               },
               "name": {
-                "en": "Area 1",
-                "sv": "Del 1",
-                "ko": "부분 1"
+                "sv": "Front",
+                "ko": "앞면",
+                "en": "Front"
               }
             },
             {
@@ -4108,9 +4108,9 @@
                 "y": 221
               },
               "name": {
-                "en": "Area 2",
-                "sv": "Del 2",
-                "ko": "부분 2"
+                "sv": "Nedre front",
+                "ko": "아래 앞면",
+                "en": "Lower front"
               }
             },
             {
@@ -4120,9 +4120,9 @@
                 "y": 132
               },
               "name": {
-                "en": "Area 3",
-                "sv": "Del 3",
-                "ko": "부분 3"
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
               }
             },
             {
@@ -4132,9 +4132,9 @@
                 "y": 56
               },
               "name": {
-                "en": "Area 4",
-                "sv": "Del 4",
-                "ko": "부분 4"
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
               }
             },
             {
@@ -4144,9 +4144,9 @@
                 "y": 112
               },
               "name": {
-                "en": "Area 5",
-                "sv": "Del 5",
-                "ko": "부분 5"
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
               }
             },
             {
@@ -4156,9 +4156,9 @@
                 "y": 115
               },
               "name": {
-                "en": "Area 6",
-                "sv": "Del 6",
-                "ko": "부분 6"
+                "sv": "Andra fönstret",
+                "ko": "다른 창문",
+                "en": "Other window"
               }
             }
           ],
