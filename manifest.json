@@ -4168,6 +4168,1939 @@
           }
         }
       ]
+    },
+    {
+      "id": "realcars",
+      "title": {
+        "en": "Real Cars",
+        "sv": "Riktiga bilar",
+        "ko": "진짜 자동차"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-realcars-camper-van",
+          "name": {
+            "sv": "Husbil",
+            "ko": "캠핑카",
+            "en": "Camper van"
+          },
+          "image": {
+            "file": "camper-van.heic",
+            "sha256": "65490dd81774133cd5f95d0ad40c531424acc9a2da55878538b0735ce9a2a02d"
+          },
+          "mask": {
+            "file": "camper-van-wall.png",
+            "sha256": "99da2e7f6aa4a49ed85e13d33af4d45f5a233a5329bd659e103425877967a8a0"
+          },
+          "regions": [
+            {
+              "id": "realcars-camper-van-r0",
+              "seedPoint": {
+                "x": 182,
+                "y": 139
+              },
+              "name": {
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
+              }
+            },
+            {
+              "id": "realcars-camper-van-r1",
+              "seedPoint": {
+                "x": 104,
+                "y": 99
+              },
+              "name": {
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
+              }
+            },
+            {
+              "id": "realcars-camper-van-r2",
+              "seedPoint": {
+                "x": 88,
+                "y": 184
+              },
+              "name": {
+                "sv": "Förarhytt",
+                "ko": "운전석",
+                "en": "Cab"
+              }
+            },
+            {
+              "id": "realcars-camper-van-r3",
+              "seedPoint": {
+                "x": 144,
+                "y": 171
+              },
+              "name": {
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
+              }
+            },
+            {
+              "id": "realcars-camper-van-r4",
+              "seedPoint": {
+                "x": 33,
+                "y": 178
+              },
+              "name": {
+                "sv": "Front",
+                "ko": "앞부분",
+                "en": "Front"
+              }
+            },
+            {
+              "id": "realcars-camper-van-r5",
+              "seedPoint": {
+                "x": 229,
+                "y": 137
+              },
+              "name": {
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "realcars-camper-van-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-realcars-delivery-van",
+          "name": {
+            "sv": "Skåpbil",
+            "ko": "배달 밴",
+            "en": "Delivery van"
+          },
+          "image": {
+            "file": "delivery-van.heic",
+            "sha256": "2bae31a353123aa7cae79d452fcfe1525c89c4eb1a1cebf2e2e4e5cd1c2049dc"
+          },
+          "mask": {
+            "file": "delivery-van-wall.png",
+            "sha256": "d176bd032f4d12cd43fa58a1886cef7125336a33fba63b430e03e19bfa81d84b"
+          },
+          "regions": [
+            {
+              "id": "realcars-delivery-van-r0",
+              "seedPoint": {
+                "x": 172,
+                "y": 135
+              },
+              "name": {
+                "sv": "Skåp",
+                "ko": "화물칸",
+                "en": "Box"
+              }
+            },
+            {
+              "id": "realcars-delivery-van-r1",
+              "seedPoint": {
+                "x": 188,
+                "y": 220
+              },
+              "name": {
+                "sv": "Marken",
+                "ko": "땅",
+                "en": "Ground"
+              }
+            },
+            {
+              "id": "realcars-delivery-van-r2",
+              "seedPoint": {
+                "x": 103,
+                "y": 102
+              },
+              "name": {
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
+              }
+            },
+            {
+              "id": "realcars-delivery-van-r3",
+              "seedPoint": {
+                "x": 49,
+                "y": 171
+              },
+              "name": {
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
+              }
+            },
+            {
+              "id": "realcars-delivery-van-r4",
+              "seedPoint": {
+                "x": 81,
+                "y": 169
+              },
+              "name": {
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
+              }
+            },
+            {
+              "id": "realcars-delivery-van-r5",
+              "seedPoint": {
+                "x": 81,
+                "y": 188
+              },
+              "name": {
+                "sv": "Motorhuv",
+                "ko": "보닛",
+                "en": "Bonnet"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "realcars-delivery-van-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-realcars-electric-car",
+          "name": {
+            "sv": "Elbil",
+            "ko": "전기차",
+            "en": "Electric car"
+          },
+          "image": {
+            "file": "electric-car.heic",
+            "sha256": "652312e3082d7e9ca53fb79f140854e6e259ccbdc6293ea4edf07f5f222cfd52"
+          },
+          "mask": {
+            "file": "electric-car-wall.png",
+            "sha256": "4bad28255e1ad0aa58db1e15128c02cf0ae60544649c5ef0c0c861881d0e2bd8"
+          },
+          "regions": [
+            {
+              "id": "realcars-electric-car-r0",
+              "seedPoint": {
+                "x": 184,
+                "y": 182
+              },
+              "name": {
+                "sv": "Bakdörr",
+                "ko": "뒷문",
+                "en": "Back door"
+              }
+            },
+            {
+              "id": "realcars-electric-car-r1",
+              "seedPoint": {
+                "x": 125,
+                "y": 183
+              },
+              "name": {
+                "sv": "Framdörr",
+                "ko": "앞문",
+                "en": "Front door"
+              }
+            },
+            {
+              "id": "realcars-electric-car-r2",
+              "seedPoint": {
+                "x": 142,
+                "y": 148
+              },
+              "name": {
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
+              }
+            },
+            {
+              "id": "realcars-electric-car-r3",
+              "seedPoint": {
+                "x": 277,
+                "y": 179
+              },
+              "name": {
+                "sv": "Laddare",
+                "ko": "충전기",
+                "en": "Charger"
+              }
+            },
+            {
+              "id": "realcars-electric-car-r4",
+              "seedPoint": {
+                "x": 84,
+                "y": 214
+              },
+              "name": {
+                "sv": "Marken",
+                "ko": "땅",
+                "en": "Ground"
+              }
+            },
+            {
+              "id": "realcars-electric-car-r5",
+              "seedPoint": {
+                "x": 166,
+                "y": 146
+              },
+              "name": {
+                "sv": "Motorhuv",
+                "ko": "보닛",
+                "en": "Bonnet"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "realcars-electric-car-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-realcars-hatchback",
+          "name": {
+            "sv": "Småbil",
+            "ko": "해치백",
+            "en": "Hatchback"
+          },
+          "image": {
+            "file": "hatchback.heic",
+            "sha256": "a974d1f95bec8644435d5b0c26ec66af985eb82c9a1c7021d68acb36400ff77b"
+          },
+          "mask": {
+            "file": "hatchback-wall.png",
+            "sha256": "8f5bddc7dc17ee91e2dc2f222a02f2056c16fa5d06d72eb360a8d5aa824fb049"
+          },
+          "regions": [
+            {
+              "id": "realcars-hatchback-r0",
+              "seedPoint": {
+                "x": 148,
+                "y": 158
+              },
+              "name": {
+                "sv": "Framdörr",
+                "ko": "앞문",
+                "en": "Front door"
+              }
+            },
+            {
+              "id": "realcars-hatchback-r1",
+              "seedPoint": {
+                "x": 194,
+                "y": 155
+              },
+              "name": {
+                "sv": "Bakdörr",
+                "ko": "뒷문",
+                "en": "Back door"
+              }
+            },
+            {
+              "id": "realcars-hatchback-r2",
+              "seedPoint": {
+                "x": 257,
+                "y": 128
+              },
+              "name": {
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
+              }
+            },
+            {
+              "id": "realcars-hatchback-r3",
+              "seedPoint": {
+                "x": 156,
+                "y": 115
+              },
+              "name": {
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
+              }
+            },
+            {
+              "id": "realcars-hatchback-r4",
+              "seedPoint": {
+                "x": 200,
+                "y": 114
+              },
+              "name": {
+                "sv": "Bakruta",
+                "ko": "뒷창문",
+                "en": "Back window"
+              }
+            },
+            {
+              "id": "realcars-hatchback-r5",
+              "seedPoint": {
+                "x": 78,
+                "y": 145
+              },
+              "name": {
+                "sv": "Motorhuv",
+                "ko": "보닛",
+                "en": "Bonnet"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "realcars-hatchback-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-realcars-jeep",
+          "name": {
+            "sv": "Jeep",
+            "ko": "지프",
+            "en": "Jeep"
+          },
+          "image": {
+            "file": "jeep.heic",
+            "sha256": "bbcc17d13c5938fc7631957239ecf2b1aae2682422c5f887d79f882cff60f7bd"
+          },
+          "mask": {
+            "file": "jeep-wall.png",
+            "sha256": "440f6700d08883bc519a24503b4d4e8fa6ff9392c36098865004d69ef3ddfe38"
+          },
+          "regions": [
+            {
+              "id": "realcars-jeep-r0",
+              "seedPoint": {
+                "x": 190,
+                "y": 165
+              },
+              "name": {
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
+              }
+            },
+            {
+              "id": "realcars-jeep-r1",
+              "seedPoint": {
+                "x": 146,
+                "y": 223
+              },
+              "name": {
+                "sv": "Marken",
+                "ko": "땅",
+                "en": "Ground"
+              }
+            },
+            {
+              "id": "realcars-jeep-r2",
+              "seedPoint": {
+                "x": 158,
+                "y": 169
+              },
+              "name": {
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
+              }
+            },
+            {
+              "id": "realcars-jeep-r3",
+              "seedPoint": {
+                "x": 199,
+                "y": 121
+              },
+              "name": {
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
+              }
+            },
+            {
+              "id": "realcars-jeep-r4",
+              "seedPoint": {
+                "x": 207,
+                "y": 193
+              },
+              "name": {
+                "sv": "Bakhjul",
+                "ko": "뒷바퀴",
+                "en": "Back wheel"
+              }
+            },
+            {
+              "id": "realcars-jeep-r5",
+              "seedPoint": {
+                "x": 37,
+                "y": 191
+              },
+              "name": {
+                "sv": "Framhjul",
+                "ko": "앞바퀴",
+                "en": "Front wheel"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "realcars-jeep-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-realcars-minivan",
+          "name": {
+            "sv": "Familjebuss",
+            "ko": "미니밴",
+            "en": "Minivan"
+          },
+          "image": {
+            "file": "minivan.heic",
+            "sha256": "bc6dacb43ca9eba259d22af32819c0581e6cbfb4e33dbca1e10e9f6e19110d19"
+          },
+          "mask": {
+            "file": "minivan-wall.png",
+            "sha256": "c4bf9709b34bfe1a9ddd2bf3650d00be3f07a3a03344298365a1bb9acad1138b"
+          },
+          "regions": [
+            {
+              "id": "realcars-minivan-r0",
+              "seedPoint": {
+                "x": 182,
+                "y": 166
+              },
+              "name": {
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
+              }
+            },
+            {
+              "id": "realcars-minivan-r1",
+              "seedPoint": {
+                "x": 158,
+                "y": 129
+              },
+              "name": {
+                "sv": "Bakruta",
+                "ko": "뒷창문",
+                "en": "Back window"
+              }
+            },
+            {
+              "id": "realcars-minivan-r2",
+              "seedPoint": {
+                "x": 95,
+                "y": 171
+              },
+              "name": {
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
+              }
+            },
+            {
+              "id": "realcars-minivan-r3",
+              "seedPoint": {
+                "x": 212,
+                "y": 128
+              },
+              "name": {
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
+              }
+            },
+            {
+              "id": "realcars-minivan-r4",
+              "seedPoint": {
+                "x": 175,
+                "y": 202
+              },
+              "name": {
+                "sv": "Marken",
+                "ko": "땅",
+                "en": "Ground"
+              }
+            },
+            {
+              "id": "realcars-minivan-r5",
+              "seedPoint": {
+                "x": 238,
+                "y": 163
+              },
+              "name": {
+                "sv": "Bak",
+                "ko": "뒷부분",
+                "en": "Back"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "realcars-minivan-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-realcars-sedan",
+          "name": {
+            "sv": "Sedan",
+            "ko": "세단",
+            "en": "Sedan"
+          },
+          "image": {
+            "file": "sedan.heic",
+            "sha256": "4c39461a7a7b69e0f16bae728844d6ef297470cf58b2c95c3684fb465b4378d5"
+          },
+          "mask": {
+            "file": "sedan-wall.png",
+            "sha256": "69cd0197875905f843a566f6cf8d53d304e6623dc46bfa58ece52ee40a3f9fb4"
+          },
+          "regions": [
+            {
+              "id": "realcars-sedan-r0",
+              "seedPoint": {
+                "x": 184,
+                "y": 171
+              },
+              "name": {
+                "sv": "Framdörr",
+                "ko": "앞문",
+                "en": "Front door"
+              }
+            },
+            {
+              "id": "realcars-sedan-r1",
+              "seedPoint": {
+                "x": 106,
+                "y": 175
+              },
+              "name": {
+                "sv": "Bakdörr",
+                "ko": "뒷문",
+                "en": "Back door"
+              }
+            },
+            {
+              "id": "realcars-sedan-r2",
+              "seedPoint": {
+                "x": 239,
+                "y": 160
+              },
+              "name": {
+                "sv": "Baklucka",
+                "ko": "트렁크",
+                "en": "Boot"
+              }
+            },
+            {
+              "id": "realcars-sedan-r3",
+              "seedPoint": {
+                "x": 84,
+                "y": 168
+              },
+              "name": {
+                "sv": "Motorhuv",
+                "ko": "보닛",
+                "en": "Bonnet"
+              }
+            },
+            {
+              "id": "realcars-sedan-r4",
+              "seedPoint": {
+                "x": 222,
+                "y": 141
+              },
+              "name": {
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
+              }
+            },
+            {
+              "id": "realcars-sedan-r5",
+              "seedPoint": {
+                "x": 251,
+                "y": 173
+              },
+              "name": {
+                "sv": "Bak",
+                "ko": "뒷부분",
+                "en": "Back"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "realcars-sedan-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-realcars-station-wagon",
+          "name": {
+            "sv": "Kombi",
+            "ko": "왜건",
+            "en": "Station wagon"
+          },
+          "image": {
+            "file": "station-wagon.heic",
+            "sha256": "794e22198394a826669faab28767803f02fdae412d4f7d761d77321273091dd1"
+          },
+          "mask": {
+            "file": "station-wagon-wall.png",
+            "sha256": "2ca78f359821ccd933f534792956fcc620c5c36a80ee833e711121399020780d"
+          },
+          "regions": [
+            {
+              "id": "realcars-station-wagon-r0",
+              "seedPoint": {
+                "x": 129,
+                "y": 172
+              },
+              "name": {
+                "sv": "Framdörr",
+                "ko": "앞문",
+                "en": "Front door"
+              }
+            },
+            {
+              "id": "realcars-station-wagon-r1",
+              "seedPoint": {
+                "x": 181,
+                "y": 171
+              },
+              "name": {
+                "sv": "Bakdörr",
+                "ko": "뒷문",
+                "en": "Back door"
+              }
+            },
+            {
+              "id": "realcars-station-wagon-r2",
+              "seedPoint": {
+                "x": 240,
+                "y": 162
+              },
+              "name": {
+                "sv": "Baklucka",
+                "ko": "트렁크",
+                "en": "Boot"
+              }
+            },
+            {
+              "id": "realcars-station-wagon-r3",
+              "seedPoint": {
+                "x": 85,
+                "y": 201
+              },
+              "name": {
+                "sv": "Marken",
+                "ko": "땅",
+                "en": "Ground"
+              }
+            },
+            {
+              "id": "realcars-station-wagon-r4",
+              "seedPoint": {
+                "x": 85,
+                "y": 168
+              },
+              "name": {
+                "sv": "Motorhuv",
+                "ko": "보닛",
+                "en": "Bonnet"
+              }
+            },
+            {
+              "id": "realcars-station-wagon-r5",
+              "seedPoint": {
+                "x": 260,
+                "y": 173
+              },
+              "name": {
+                "sv": "Bak",
+                "ko": "뒷부분",
+                "en": "Back"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "realcars-station-wagon-r0",
+            "colorId": "red"
+          }
+        }
+      ]
+    },
+    {
+      "id": "roadworks",
+      "title": {
+        "en": "Roadworks",
+        "sv": "Vägarbete",
+        "ko": "도로 공사"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-roadworks-backhoe",
+          "name": {
+            "sv": "Traktorgrävare",
+            "ko": "백호",
+            "en": "Backhoe"
+          },
+          "image": {
+            "file": "backhoe.heic",
+            "sha256": "fbc405913abfb48ffff594d618c97c007a23733084a2a96c3fcd951da070d274"
+          },
+          "mask": {
+            "file": "backhoe-wall.png",
+            "sha256": "ecce8b46315320e0e26a0f49fdf076dfa4824c41c7aaea7522b4b3f73faa2d68"
+          },
+          "regions": [
+            {
+              "id": "roadworks-backhoe-r0",
+              "seedPoint": {
+                "x": 199,
+                "y": 121
+              },
+              "name": {
+                "sv": "Hytt",
+                "ko": "운전석",
+                "en": "Cab"
+              }
+            },
+            {
+              "id": "roadworks-backhoe-r1",
+              "seedPoint": {
+                "x": 233,
+                "y": 171
+              },
+              "name": {
+                "sv": "Bakhjul",
+                "ko": "뒷바퀴",
+                "en": "Back wheel"
+              }
+            },
+            {
+              "id": "roadworks-backhoe-r2",
+              "seedPoint": {
+                "x": 101,
+                "y": 152
+              },
+              "name": {
+                "sv": "Arm",
+                "ko": "팔",
+                "en": "Arm"
+              }
+            },
+            {
+              "id": "roadworks-backhoe-r3",
+              "seedPoint": {
+                "x": 155,
+                "y": 207
+              },
+              "name": {
+                "sv": "Framhjul",
+                "ko": "앞바퀴",
+                "en": "Front wheel"
+              }
+            },
+            {
+              "id": "roadworks-backhoe-r4",
+              "seedPoint": {
+                "x": 44,
+                "y": 196
+              },
+              "name": {
+                "sv": "Skopa",
+                "ko": "버킷",
+                "en": "Bucket"
+              }
+            },
+            {
+              "id": "roadworks-backhoe-r5",
+              "seedPoint": {
+                "x": 159,
+                "y": 144
+              },
+              "name": {
+                "sv": "Motor",
+                "ko": "엔진",
+                "en": "Engine"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "roadworks-backhoe-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-roadworks-bucket-truck",
+          "name": {
+            "sv": "Skylift",
+            "ko": "고소작업차",
+            "en": "Bucket truck"
+          },
+          "image": {
+            "file": "bucket-truck.heic",
+            "sha256": "7d5544cbbfa0c8988aa49223c4a63bbfb8903a57d320d3b3c6e91d944869b4a3"
+          },
+          "mask": {
+            "file": "bucket-truck-wall.png",
+            "sha256": "2a691a7ddb8dbfd568061cdd9d5b70a275d78717b353dba511bcfb9f0a017a10"
+          },
+          "regions": [
+            {
+              "id": "roadworks-bucket-truck-r0",
+              "seedPoint": {
+                "x": 125,
+                "y": 230
+              },
+              "name": {
+                "sv": "Marken",
+                "ko": "땅",
+                "en": "Ground"
+              }
+            },
+            {
+              "id": "roadworks-bucket-truck-r1",
+              "seedPoint": {
+                "x": 97,
+                "y": 178
+              },
+              "name": {
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
+              }
+            },
+            {
+              "id": "roadworks-bucket-truck-r2",
+              "seedPoint": {
+                "x": 176,
+                "y": 89
+              },
+              "name": {
+                "sv": "Kran",
+                "ko": "붐",
+                "en": "Boom"
+              }
+            },
+            {
+              "id": "roadworks-bucket-truck-r3",
+              "seedPoint": {
+                "x": 39,
+                "y": 190
+              },
+              "name": {
+                "sv": "Motorhuv",
+                "ko": "보닛",
+                "en": "Bonnet"
+              }
+            },
+            {
+              "id": "roadworks-bucket-truck-r4",
+              "seedPoint": {
+                "x": 152,
+                "y": 187
+              },
+              "name": {
+                "sv": "Flak",
+                "ko": "짐칸",
+                "en": "Bed"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "roadworks-bucket-truck-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-roadworks-road-roller",
+          "name": {
+            "sv": "Vägvält",
+            "ko": "롤러",
+            "en": "Road roller"
+          },
+          "image": {
+            "file": "road-roller.heic",
+            "sha256": "459bf65956601c0ae175e6e8344f6a0d4dd94595573eec28142d9156e3be6069"
+          },
+          "mask": {
+            "file": "road-roller-wall.png",
+            "sha256": "14b988fe23a6c1928d5e28358e28d0ab409a0c6e79827dc680104bc4339a5cd0"
+          },
+          "regions": [
+            {
+              "id": "roadworks-road-roller-r0",
+              "seedPoint": {
+                "x": 207,
+                "y": 176
+              },
+              "name": {
+                "sv": "Hjul",
+                "ko": "바퀴",
+                "en": "Wheel"
+              }
+            },
+            {
+              "id": "roadworks-road-roller-r1",
+              "seedPoint": {
+                "x": 145,
+                "y": 228
+              },
+              "name": {
+                "sv": "Marken",
+                "ko": "땅",
+                "en": "Ground"
+              }
+            },
+            {
+              "id": "roadworks-road-roller-r2",
+              "seedPoint": {
+                "x": 83,
+                "y": 192
+              },
+              "name": {
+                "sv": "Ram",
+                "ko": "프레임",
+                "en": "Frame"
+              }
+            },
+            {
+              "id": "roadworks-road-roller-r3",
+              "seedPoint": {
+                "x": 32,
+                "y": 199
+              },
+              "name": {
+                "sv": "Vals",
+                "ko": "롤러",
+                "en": "Drum"
+              }
+            },
+            {
+              "id": "roadworks-road-roller-r4",
+              "seedPoint": {
+                "x": 259,
+                "y": 156
+              },
+              "name": {
+                "sv": "Motor",
+                "ko": "엔진",
+                "en": "Engine"
+              }
+            },
+            {
+              "id": "roadworks-road-roller-r5",
+              "seedPoint": {
+                "x": 155,
+                "y": 150
+              },
+              "name": {
+                "sv": "Hytt",
+                "ko": "운전석",
+                "en": "Cab"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "roadworks-road-roller-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-roadworks-skid-steer",
+          "name": {
+            "sv": "Kompaktlastare",
+            "ko": "스키드로더",
+            "en": "Skid steer"
+          },
+          "image": {
+            "file": "skid-steer.heic",
+            "sha256": "c448d83ef4f078a8fc6ba67025bde1105a840f3e533570cdbdcf86c608a925b1"
+          },
+          "mask": {
+            "file": "skid-steer-wall.png",
+            "sha256": "996ee66c07e34c14c15875cfeb731d34931bf75fad938b5ce9cb27177ed9ebf5"
+          },
+          "regions": [
+            {
+              "id": "roadworks-skid-steer-r0",
+              "seedPoint": {
+                "x": 100,
+                "y": 204
+              },
+              "name": {
+                "sv": "Skopa",
+                "ko": "버킷",
+                "en": "Bucket"
+              }
+            },
+            {
+              "id": "roadworks-skid-steer-r1",
+              "seedPoint": {
+                "x": 160,
+                "y": 94
+              },
+              "name": {
+                "sv": "Hytt",
+                "ko": "운전석",
+                "en": "Cab"
+              }
+            },
+            {
+              "id": "roadworks-skid-steer-r2",
+              "seedPoint": {
+                "x": 177,
+                "y": 133
+              },
+              "name": {
+                "sv": "Arm",
+                "ko": "팔",
+                "en": "Arm"
+              }
+            },
+            {
+              "id": "roadworks-skid-steer-r3",
+              "seedPoint": {
+                "x": 145,
+                "y": 225
+              },
+              "name": {
+                "sv": "Framhjul",
+                "ko": "앞바퀴",
+                "en": "Front wheel"
+              }
+            },
+            {
+              "id": "roadworks-skid-steer-r4",
+              "seedPoint": {
+                "x": 274,
+                "y": 159
+              },
+              "name": {
+                "sv": "Lyftarm",
+                "ko": "리프트 암",
+                "en": "Lift arm"
+              }
+            },
+            {
+              "id": "roadworks-skid-steer-r5",
+              "seedPoint": {
+                "x": 203,
+                "y": 162
+              },
+              "name": {
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "roadworks-skid-steer-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-roadworks-street-sweeper",
+          "name": {
+            "sv": "Sopmaskin",
+            "ko": "청소차",
+            "en": "Street sweeper"
+          },
+          "image": {
+            "file": "street-sweeper.heic",
+            "sha256": "47138da86089804ec0b6c953cba8ef313e4e6c79fe7eb339548b5cc668b0627c"
+          },
+          "mask": {
+            "file": "street-sweeper-wall.png",
+            "sha256": "262e8de8659a770f70d741d65f3ed13431227836aad3696491321f2cbdb72df1"
+          },
+          "regions": [
+            {
+              "id": "roadworks-street-sweeper-r0",
+              "seedPoint": {
+                "x": 163,
+                "y": 109
+              },
+              "name": {
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
+              }
+            },
+            {
+              "id": "roadworks-street-sweeper-r1",
+              "seedPoint": {
+                "x": 173,
+                "y": 141
+              },
+              "name": {
+                "sv": "Lucka",
+                "ko": "해치",
+                "en": "Hatch"
+              }
+            },
+            {
+              "id": "roadworks-street-sweeper-r2",
+              "seedPoint": {
+                "x": 107,
+                "y": 184
+              },
+              "name": {
+                "sv": "Sida",
+                "ko": "옆면",
+                "en": "Side"
+              }
+            },
+            {
+              "id": "roadworks-street-sweeper-r3",
+              "seedPoint": {
+                "x": 156,
+                "y": 208
+              },
+              "name": {
+                "sv": "Borste",
+                "ko": "브러시",
+                "en": "Brush"
+              }
+            },
+            {
+              "id": "roadworks-street-sweeper-r4",
+              "seedPoint": {
+                "x": 121,
+                "y": 154
+              },
+              "name": {
+                "sv": "Dörr",
+                "ko": "문",
+                "en": "Door"
+              }
+            },
+            {
+              "id": "roadworks-street-sweeper-r5",
+              "seedPoint": {
+                "x": 118,
+                "y": 113
+              },
+              "name": {
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "roadworks-street-sweeper-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-roadworks-tow-truck",
+          "name": {
+            "sv": "Bärgningsbil",
+            "ko": "견인차",
+            "en": "Tow truck"
+          },
+          "image": {
+            "file": "tow-truck.heic",
+            "sha256": "2224c91eafbff8c41b3bf5fa5377bb447055fb619b5a904f012fbbff60c51529"
+          },
+          "mask": {
+            "file": "tow-truck-wall.png",
+            "sha256": "7434b0c5f533b3b1dd03ea46b5531bf1cb3de285e10c5f6eef0bf71b1d6a0a96"
+          },
+          "regions": [
+            {
+              "id": "roadworks-tow-truck-r0",
+              "seedPoint": {
+                "x": 63,
+                "y": 170
+              },
+              "name": {
+                "sv": "Hytt",
+                "ko": "운전석",
+                "en": "Cab"
+              }
+            },
+            {
+              "id": "roadworks-tow-truck-r1",
+              "seedPoint": {
+                "x": 135,
+                "y": 213
+              },
+              "name": {
+                "sv": "Flak",
+                "ko": "적재판",
+                "en": "Flatbed"
+              }
+            },
+            {
+              "id": "roadworks-tow-truck-r2",
+              "seedPoint": {
+                "x": 104,
+                "y": 178
+              },
+              "name": {
+                "sv": "Bil",
+                "ko": "자동차",
+                "en": "Car"
+              }
+            },
+            {
+              "id": "roadworks-tow-truck-r3",
+              "seedPoint": {
+                "x": 202,
+                "y": 165
+              },
+              "name": {
+                "sv": "Bildörr",
+                "ko": "차 문",
+                "en": "Car door"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "roadworks-tow-truck-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-roadworks-wheel-loader",
+          "name": {
+            "sv": "Hjullastare",
+            "ko": "휠로더",
+            "en": "Wheel loader"
+          },
+          "image": {
+            "file": "wheel-loader.heic",
+            "sha256": "96a3880c4e8d8e58194fa01d61cbf864978b28eab575b090fed2371ca2ec7999"
+          },
+          "mask": {
+            "file": "wheel-loader-wall.png",
+            "sha256": "ca3cd69b9f1be17d7d1eed380a3c934284098214a8b85135a347267130bbcae9"
+          },
+          "regions": [
+            {
+              "id": "roadworks-wheel-loader-r0",
+              "seedPoint": {
+                "x": 226,
+                "y": 171
+              },
+              "name": {
+                "sv": "Bakhjul",
+                "ko": "뒷바퀴",
+                "en": "Back wheel"
+              }
+            },
+            {
+              "id": "roadworks-wheel-loader-r1",
+              "seedPoint": {
+                "x": 86,
+                "y": 173
+              },
+              "name": {
+                "sv": "Framhjul",
+                "ko": "앞바퀴",
+                "en": "Front wheel"
+              }
+            },
+            {
+              "id": "roadworks-wheel-loader-r2",
+              "seedPoint": {
+                "x": 204,
+                "y": 137
+              },
+              "name": {
+                "sv": "Motor",
+                "ko": "엔진",
+                "en": "Engine"
+              }
+            },
+            {
+              "id": "roadworks-wheel-loader-r3",
+              "seedPoint": {
+                "x": 161,
+                "y": 116
+              },
+              "name": {
+                "sv": "Hytt",
+                "ko": "운전석",
+                "en": "Cab"
+              }
+            },
+            {
+              "id": "roadworks-wheel-loader-r4",
+              "seedPoint": {
+                "x": 45,
+                "y": 202
+              },
+              "name": {
+                "sv": "Skopa",
+                "ko": "버킷",
+                "en": "Bucket"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "roadworks-wheel-loader-r0",
+            "colorId": "red"
+          }
+        }
+      ]
+    },
+    {
+      "id": "railway",
+      "title": {
+        "en": "Railway",
+        "sv": "Järnväg",
+        "ko": "철도"
+      },
+      "version": 1,
+      "pages": [
+        {
+          "id": "pack-railway-container-wagon",
+          "name": {
+            "sv": "Containervagn",
+            "ko": "컨테이너 화차",
+            "en": "Container wagon"
+          },
+          "image": {
+            "file": "container-wagon.heic",
+            "sha256": "8605480030c1e5b982cebbc278a9276d16d78d03123df310f5c26741493df06e"
+          },
+          "mask": {
+            "file": "container-wagon-wall.png",
+            "sha256": "6eeb5f84e24333f2f54ecc6523d39a85604cdf1cda5a5eed7463501b0864a39e"
+          },
+          "regions": [
+            {
+              "id": "railway-container-wagon-r0",
+              "seedPoint": {
+                "x": 53,
+                "y": 205
+              },
+              "name": {
+                "sv": "Främre container",
+                "ko": "앞 컨테이너",
+                "en": "Front container"
+              }
+            },
+            {
+              "id": "railway-container-wagon-r1",
+              "seedPoint": {
+                "x": 192,
+                "y": 205
+              },
+              "name": {
+                "sv": "Bakre container",
+                "ko": "뒤 컨테이너",
+                "en": "Back container"
+              }
+            },
+            {
+              "id": "railway-container-wagon-r2",
+              "seedPoint": {
+                "x": 105,
+                "y": 255
+              },
+              "name": {
+                "sv": "Vagn",
+                "ko": "화차",
+                "en": "Wagon"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "railway-container-wagon-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-railway-diesel-locomotive",
+          "name": {
+            "sv": "Diesellok",
+            "ko": "디젤 기관차",
+            "en": "Diesel locomotive"
+          },
+          "image": {
+            "file": "diesel-locomotive.heic",
+            "sha256": "4b35c86a00fa38c3f2802669600ca030b1380ea698fa49edbd439ab6232d2f25"
+          },
+          "mask": {
+            "file": "diesel-locomotive-wall.png",
+            "sha256": "6a60fff74532c50f5e9861e11e9c96195c5a6f076a88b0eaa890b7a9fefe7c8b"
+          },
+          "regions": [
+            {
+              "id": "railway-diesel-locomotive-r0",
+              "seedPoint": {
+                "x": 162,
+                "y": 149
+              },
+              "name": {
+                "sv": "Motorrum",
+                "ko": "엔진실",
+                "en": "Engine"
+              }
+            },
+            {
+              "id": "railway-diesel-locomotive-r1",
+              "seedPoint": {
+                "x": 138,
+                "y": 190
+              },
+              "name": {
+                "sv": "Tank",
+                "ko": "탱크",
+                "en": "Tank"
+              }
+            },
+            {
+              "id": "railway-diesel-locomotive-r2",
+              "seedPoint": {
+                "x": 112,
+                "y": 129
+              },
+              "name": {
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
+              }
+            },
+            {
+              "id": "railway-diesel-locomotive-r3",
+              "seedPoint": {
+                "x": 70,
+                "y": 122
+              },
+              "name": {
+                "sv": "Bak",
+                "ko": "뒷부분",
+                "en": "Back"
+              }
+            },
+            {
+              "id": "railway-diesel-locomotive-r4",
+              "seedPoint": {
+                "x": 261,
+                "y": 158
+              },
+              "name": {
+                "sv": "Hytt",
+                "ko": "운전석",
+                "en": "Cab"
+              }
+            },
+            {
+              "id": "railway-diesel-locomotive-r5",
+              "seedPoint": {
+                "x": 199,
+                "y": 200
+              },
+              "name": {
+                "sv": "Hjul",
+                "ko": "바퀴",
+                "en": "Wheels"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "railway-diesel-locomotive-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-railway-double-decker-train",
+          "name": {
+            "sv": "Tvåvåningståg",
+            "ko": "2층 열차",
+            "en": "Double-decker train"
+          },
+          "image": {
+            "file": "double-decker-train.heic",
+            "sha256": "29637b1f0ac12d1d07f6456241cc2c5d3cead93b8c0ce0909e7309334d5870ab"
+          },
+          "mask": {
+            "file": "double-decker-train-wall.png",
+            "sha256": "06c45d12f9bba86d79a8143efaf3ebeddcefa0182308829f9d7a903cbdacb2cf"
+          },
+          "regions": [
+            {
+              "id": "railway-double-decker-train-r0",
+              "seedPoint": {
+                "x": 72,
+                "y": 196
+              },
+              "name": {
+                "sv": "Underdel",
+                "ko": "아래층",
+                "en": "Lower deck"
+              }
+            },
+            {
+              "id": "railway-double-decker-train-r1",
+              "seedPoint": {
+                "x": 49,
+                "y": 138
+              },
+              "name": {
+                "sv": "Mitten",
+                "ko": "가운데",
+                "en": "Middle"
+              }
+            },
+            {
+              "id": "railway-double-decker-train-r2",
+              "seedPoint": {
+                "x": 62,
+                "y": 86
+              },
+              "name": {
+                "sv": "Tak",
+                "ko": "지붕",
+                "en": "Roof"
+              }
+            },
+            {
+              "id": "railway-double-decker-train-r3",
+              "seedPoint": {
+                "x": 58,
+                "y": 107
+              },
+              "name": {
+                "sv": "Övre fönster",
+                "ko": "위층 창문",
+                "en": "Upper windows"
+              }
+            },
+            {
+              "id": "railway-double-decker-train-r4",
+              "seedPoint": {
+                "x": 86,
+                "y": 111
+              },
+              "name": {
+                "sv": "Fönster",
+                "ko": "창문",
+                "en": "Window"
+              }
+            },
+            {
+              "id": "railway-double-decker-train-r5",
+              "seedPoint": {
+                "x": 83,
+                "y": 166
+              },
+              "name": {
+                "sv": "Nedre fönster",
+                "ko": "아래 창문",
+                "en": "Lower window"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "railway-double-decker-train-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-railway-electric-locomotive",
+          "name": {
+            "sv": "Ellok",
+            "ko": "전기 기관차",
+            "en": "Electric locomotive"
+          },
+          "image": {
+            "file": "electric-locomotive.heic",
+            "sha256": "c76a8e750b0e1e3b367d9d6e648271580bf4511c1b33ca2ad176e0293ceabdf3"
+          },
+          "mask": {
+            "file": "electric-locomotive-wall.png",
+            "sha256": "ad126fc4e1af8ee4adbc2a7c70f6756299c8ab4f069998edb0138534eb899aff"
+          },
+          "regions": [
+            {
+              "id": "railway-electric-locomotive-r0",
+              "seedPoint": {
+                "x": 106,
+                "y": 179
+              },
+              "name": {
+                "sv": "Kaross",
+                "ko": "차체",
+                "en": "Body"
+              }
+            },
+            {
+              "id": "railway-electric-locomotive-r1",
+              "seedPoint": {
+                "x": 48,
+                "y": 209
+              },
+              "name": {
+                "sv": "Botten",
+                "ko": "바닥",
+                "en": "Bottom"
+              }
+            },
+            {
+              "id": "railway-electric-locomotive-r2",
+              "seedPoint": {
+                "x": 253,
+                "y": 209
+              },
+              "name": {
+                "sv": "Hjul",
+                "ko": "바퀴",
+                "en": "Wheels"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "railway-electric-locomotive-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-railway-mine-cart",
+          "name": {
+            "sv": "Gruvvagn",
+            "ko": "광차",
+            "en": "Mine cart"
+          },
+          "image": {
+            "file": "mine-cart.heic",
+            "sha256": "5edf272e13d3e0f63033f9138f17a7ecd17d16f1634844431b57d07553190b39"
+          },
+          "mask": {
+            "file": "mine-cart-wall.png",
+            "sha256": "d653ea7295a6b72b4094c59e952db71ffde13327966a1ed4183f812e643709e8"
+          },
+          "regions": [
+            {
+              "id": "railway-mine-cart-r0",
+              "seedPoint": {
+                "x": 148,
+                "y": 175
+              },
+              "name": {
+                "sv": "Vagn",
+                "ko": "광차",
+                "en": "Cart"
+              }
+            },
+            {
+              "id": "railway-mine-cart-r1",
+              "seedPoint": {
+                "x": 200,
+                "y": 175
+              },
+              "name": {
+                "sv": "Sida",
+                "ko": "옆면",
+                "en": "Side"
+              }
+            },
+            {
+              "id": "railway-mine-cart-r2",
+              "seedPoint": {
+                "x": 158,
+                "y": 223
+              },
+              "name": {
+                "sv": "Botten",
+                "ko": "바닥",
+                "en": "Bottom"
+              }
+            },
+            {
+              "id": "railway-mine-cart-r3",
+              "seedPoint": {
+                "x": 231,
+                "y": 174
+              },
+              "name": {
+                "sv": "Gavel",
+                "ko": "끝",
+                "en": "End"
+              }
+            },
+            {
+              "id": "railway-mine-cart-r4",
+              "seedPoint": {
+                "x": 110,
+                "y": 176
+              },
+              "name": {
+                "sv": "Front",
+                "ko": "앞",
+                "en": "Front"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "railway-mine-cart-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-railway-monorail",
+          "name": {
+            "sv": "Monorail",
+            "ko": "모노레일",
+            "en": "Monorail"
+          },
+          "image": {
+            "file": "monorail.heic",
+            "sha256": "5a7a26e824f04ac7fc556e8748ae38eb856286a7495e57d2bff1d2f76fddbbd6"
+          },
+          "mask": {
+            "file": "monorail-wall.png",
+            "sha256": "be21654d818939a23777ad5b0ade25e5efa6244c7878870315f1be125d898b69"
+          },
+          "regions": [
+            {
+              "id": "railway-monorail-r0",
+              "seedPoint": {
+                "x": 29,
+                "y": 259
+              },
+              "name": {
+                "sv": "Pelarfot",
+                "ko": "기둥 아래",
+                "en": "Pillar base"
+              }
+            },
+            {
+              "id": "railway-monorail-r1",
+              "seedPoint": {
+                "x": 112,
+                "y": 52
+              },
+              "name": {
+                "sv": "Tåg",
+                "ko": "열차",
+                "en": "Train"
+              }
+            },
+            {
+              "id": "railway-monorail-r2",
+              "seedPoint": {
+                "x": 31,
+                "y": 157
+              },
+              "name": {
+                "sv": "Pelare",
+                "ko": "기둥",
+                "en": "Pillar"
+              }
+            },
+            {
+              "id": "railway-monorail-r3",
+              "seedPoint": {
+                "x": 32,
+                "y": 117
+              },
+              "name": {
+                "sv": "Pelartopp",
+                "ko": "기둥 위",
+                "en": "Pillar top"
+              }
+            },
+            {
+              "id": "railway-monorail-r4",
+              "seedPoint": {
+                "x": 210,
+                "y": 46
+              },
+              "name": {
+                "sv": "Nos",
+                "ko": "앞부분",
+                "en": "Nose"
+              }
+            },
+            {
+              "id": "railway-monorail-r5",
+              "seedPoint": {
+                "x": 27,
+                "y": 82
+              },
+              "name": {
+                "sv": "Balk",
+                "ko": "빔",
+                "en": "Beam"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "railway-monorail-r0",
+            "colorId": "red"
+          }
+        },
+        {
+          "id": "pack-railway-tank-wagon",
+          "name": {
+            "sv": "Tankvagn",
+            "ko": "탱크 화차",
+            "en": "Tank wagon"
+          },
+          "image": {
+            "file": "tank-wagon.heic",
+            "sha256": "447d408b07d9d4f66a481f7f47cab7adc04441b7b25a7ba2da696595fb5f0e4d"
+          },
+          "mask": {
+            "file": "tank-wagon-wall.png",
+            "sha256": "c947cfc50639846df992d41945c02a82e9574c47c66b0bcc4ef1cc24fbba7ee1"
+          },
+          "regions": [
+            {
+              "id": "railway-tank-wagon-r0",
+              "seedPoint": {
+                "x": 114,
+                "y": 134
+              },
+              "name": {
+                "sv": "Tank",
+                "ko": "탱크",
+                "en": "Tank"
+              }
+            },
+            {
+              "id": "railway-tank-wagon-r1",
+              "seedPoint": {
+                "x": 180,
+                "y": 132
+              },
+              "name": {
+                "sv": "Tank bak",
+                "ko": "탱크 뒤",
+                "en": "Tank back"
+              }
+            },
+            {
+              "id": "railway-tank-wagon-r2",
+              "seedPoint": {
+                "x": 106,
+                "y": 208
+              },
+              "name": {
+                "sv": "Vagn",
+                "ko": "화차",
+                "en": "Wagon"
+              }
+            }
+          ],
+          "guidedTarget": {
+            "regionId": "railway-tank-wagon-r0",
+            "colorId": "red"
+          }
+        }
+      ]
     }
   ]
 }
